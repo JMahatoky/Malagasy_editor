@@ -6,6 +6,8 @@ Membre du groupe: ISAIA 5
  RAKOTOARISOA Laingo Tsilavina   n 05 : Auto completion
  HASINAVALONA Lovatiana          n 06 : Interface
  Noah COIS NEWMAN                n 13 : Analyse de sentiment
+
+ lien: https://malagasyeditor.streamlit.app/
  
  
  
