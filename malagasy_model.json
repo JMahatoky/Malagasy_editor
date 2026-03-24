@@ -1,0 +1,8137 @@
+{
+    "n": 3,
+    "data": {
+        "toy ny": {
+            "teny": 2,
+            "harena": 1,
+            "haifampianarana": 1,
+            "olom": 1
+        },
+        "ny teny": {
+            "rehetra": 2,
+            "malagasy": 6,
+            "sy": 2,
+            "frantsay": 1,
+            "anglisy": 1
+        },
+        "teny rehetra": {
+            "fampiasan": 2
+        },
+        "rehetra fampiasan": {
+            "ny": 2
+        },
+        "fampiasan ny": {
+            "firenen": 2
+        },
+        "ny firenen": {
+            "tsamihafa": 2,
+            "kafa": 1
+        },
+        "firenen tsamihafa": {
+            "eran": 2
+        },
+        "tsamihafa eran": {
+            "tany": 2
+        },
+        "eran tany": {
+            "ny": 2,
+            "noho": 1
+        },
+        "tany ny": {
+            "teny": 2,
+            "olona": 1,
+            "andro": 1
+        },
+        "teny malagasy": {
+            "dia": 3,
+            "amin": 1,
+            "nefa": 1,
+            "araka": 1
+        },
+        "malagasy dia": {
+            "fitaovana": 2,
+            "tokony": 1
+        },
+        "dia fitaovana": {
+            "mahomby": 2
+        },
+        "fitaovana mahomby": {
+            "ahafahana": 2
+        },
+        "mahomby ahafahana": {
+            "mamolaka": 1,
+            "mifehy": 1
+        },
+        "ahafahana mamolaka": {
+            "sy": 1
+        },
+        "mamolaka sy": {
+            "mifehy": 1
+        },
+        "sy mifehy": {
+            "ny": 1
+        },
+        "mifehy ny": {
+            "fahalalana": 1,
+            "tanjona": 1
+        },
+        "ny fahalalana": {
+            "ny": 2,
+            "iombonan": 1,
+            "momba": 1,
+            "azony": 1
+        },
+        "fahalalana ny": {
+            "fahaiza": 1,
+            "fahaizamanao": 1
+        },
+        "ny fahaiza": {
+            "manao": 1
+        },
+        "fahaiza manao": {
+            "ary": 1
+        },
+        "manao ary": {
+            "ny": 1
+        },
+        "ary ny": {
+            "tetika": 1,
+            "fivoaran": 1,
+            "hitsiny": 1,
+            "zavatra": 1,
+            "zvatra": 1,
+            "antrôpôlôjia": 1,
+            "firafitra": 1,
+            "tekinika": 1
+        },
+        "ny tetika": {
+            "anabeazana": 1
+        },
+        "tetika anabeazana": {
+            "feno": 1
+        },
+        "anabeazana feno": {
+            "ny": 2
+        },
+        "feno ny": {
+            "maha": 2
+        },
+        "ny maha": {
+            "olona": 5,
+            "fitaovam": 1,
+            "olombelona": 1,
+            "literatiora": 2
+        },
+        "maha olona": {
+            "vatana": 2,
+            "izay": 1
+        },
+        "olona vatana": {
+            "saina": 2
+        },
+        "vatana saina": {
+            "fanahy": 2
+        },
+        "saina fanahy": {
+            "sy": 2
+        },
+        "fanahy sy": {
+            "ahazoa": 2,
+            "ireo": 1
+        },
+        "sy ahazoa": {
+            "mivelatra": 2
+        },
+        "ahazoa mivelatra": {
+            "eo": 2
+        },
+        "mivelatra eo": {
+            "amin": 2
+        },
+        "eo amin": {
+            "ny": 22,
+            "ilay": 1
+        },
+        "amin ny": {
+            "lafim": 2,
+            "haren": 2,
+            "fifampikasohany": 1,
+            "hevitra": 2,
+            "fivoarana": 2,
+            "tsaratsara": 3,
+            "ambaratonga": 4,
+            "maha": 4,
+            "fahalalana": 1,
+            "kilasy": 3,
+            "tontolom": 1,
+            "fianarana": 1,
+            "lafiny": 7,
+            "fikarohana": 1,
+            "fiforonan": 1,
+            "faritra": 6,
+            "hevitry": 1,
+            "alalan": 2,
+            "fiheverany": 1,
+            "antsoina": 1,
+            "vokatry": 1,
+            "fiaraha": 2,
+            "fifandraisan": 1,
+            "zotram": 1,
+            "fiainam": 1,
+            "fampivelarana": 1,
+            "hery": 1,
+            "aina": 1,
+            "fahapotehana": 1,
+            "fiainana": 2,
+            "ecole": 1,
+            "sampana": 1,
+            "fiarahamonina": 5,
+            "taona": 1,
+            "fandinihana": 1,
+            "kaominina": 1,
+            "fandraisana": 1,
+            "firy": 1,
+            "alahady": 1,
+            "bozaka": 1,
+            "alina": 2,
+            "fianarany": 1,
+            "namana": 2,
+            "fitsingerenan": 1,
+            "paompy": 2,
+            "savony": 1,
+            "farmasia": 1,
+            "valiha": 1,
+            "volana": 1,
+            "tanàna": 1,
+            "seranan": 1,
+            "tendrombohitra": 1,
+            "hopitaly": 1,
+            "fety": 2,
+            "moka": 2,
+            "faran": 1,
+            "masoandro": 1,
+            "mpanao": 1,
+            "tendrony": 1,
+            "tany": 1,
+            "rindrina": 1,
+            "vovo": 1,
+            "rian": 1,
+            "valan": 1,
+            "krismasy": 1,
+            "famonosana": 1,
+            "laboratoara": 1,
+            "renirano": 1,
+            "sehatra": 1,
+            "teny": 2,
+            "sehatry": 1,
+            "tontolo": 1,
+            "fifandraisana": 1,
+            "fanoratana": 1,
+            "fahafolahana": 1,
+            "vakiteny": 1,
+            "fanehoan": 1,
+            "antontam": 1
+        },
+        "ny lafim": {
+            "piainana": 2
+        },
+        "lafim piainana": {
+            "rehetra": 2
+        },
+        "piainana rehetra": {
+            "noho": 1
+        },
+        "rehetra noho": {
+            "izany": 1
+        },
+        "noho izany": {
+            "ny": 2,
+            "dia": 2
+        },
+        "izany ny": {
+            "fampianarana": 2,
+            "lafiny": 1,
+            "fandinihana": 1
+        },
+        "ny fampianarana": {
+            "ny": 2,
+            "azy": 1
+        },
+        "fampianarana ny": {
+            "teny": 1,
+            "taranja": 1
+        },
+        "dia tokony": {
+            "hitaiza": 1,
+            "ho": 2
+        },
+        "tokony hitaiza": {
+            "ny": 1
+        },
+        "hitaiza ny": {
+            "mpianatra": 1
+        },
+        "hahalala ny": {
+            "kolontsaina": 1,
+            "kolon": 1
+        },
+        "ny kolontsaina": {
+            "sy": 2,
+            "malagasy": 1
+        },
+        "kolontsaina sy": {
+            "ny": 2
+        },
+        "sy ny": {
+            "rafi": 2,
+            "fihetsika": 2,
+            "fifampitondrany": 1,
+            "fifandraisana": 1,
+            "tody": 2,
+            "tontolo": 2,
+            "fahasamihafana": 1,
+            "fiheverany": 1,
+            "fomba": 2,
+            "fandraisana": 1,
+            "tsara": 1,
+            "fiheveran": 1,
+            "toe": 1,
+            "soatoavina": 1,
+            "endriny": 1,
+            "filazan": 1,
+            "herinao": 1
+        },
+        "ny rafi": {
+            "pisainana": 4
+        },
+        "rafi pisainana": {
+            "malagasy": 4
+        },
+        "pisainana malagasy": {
+            "manaraka": 2,
+            "ny": 2
+        },
+        "malagasy manaraka": {
+            "ny": 2
+        },
+        "manaraka ny": {
+            "fivoaran": 2,
+            "tantara": 1
+        },
+        "ny fivoaran": {
+            "ny": 3,
+            "izany": 1
+        },
+        "fivoaran ny": {
+            "tantara": 2,
+            "zava": 1
+        },
+        "ho afaka": {
+            "mitia": 2
+        },
+        "afaka mitia": {
+            "sy": 2
+        },
+        "mitia sy": {
+            "mikolo": 3
+        },
+        "sy mikolo": {
+            "ary": 3
+        },
+        "mikolo ary": {
+            "mandamina": 2,
+            "miaro": 1
+        },
+        "ary mandamina": {
+            "ny": 2
+        },
+        "mandamina ny": {
+            "haren": 2
+        },
+        "ny haren": {
+            "tsaina": 4,
+            "tsain": 3
+        },
+        "haren tsaina": {
+            "malagasy": 3,
+            "sy": 1
+        },
+        "tsaina malagasy": {
+            "no": 2
+        },
+        "malagasy no": {
+            "sady": 2
+        },
+        "no sady": {
+            "afaka": 2
+        },
+        "sady afaka": {
+            "misokatra": 2
+        },
+        "afaka misokatra": {
+            "amin": 2
+        },
+        "misokatra amin": {
+            "ny": 3
+        },
+        "haren tsain": {
+            "ny": 3
+        },
+        "tsain ny": {
+            "hafa": 2,
+            "firenen": 1
+        },
+        "ho matotra": {
+            "eo": 1,
+            "amin": 1
+        },
+        "matotra eo": {
+            "amin": 1
+        },
+        "ny fifampikasohany": {
+            "amin": 1
+        },
+        "fifampikasohany amin": {
+            "ny": 1
+        },
+        "ny hevitra": {
+            "isan": 1,
+            "rehetra": 1,
+            "mpanoratra": 1,
+            "fotra": 1,
+            "fototra": 1,
+            "mifampikasoka": 1,
+            "fonosin": 1
+        },
+        "hevitra isan": {
+            "karazany": 2
+        },
+        "isan karazany": {
+            "sady": 2,
+            "izahay": 1,
+            "ny": 1,
+            "sy": 1
+        },
+        "karazany sady": {
+            "mahay": 2
+        },
+        "sady mahay": {
+            "mihaino": 2
+        },
+        "mahay mihaino": {
+            "no": 2
+        },
+        "mihaino no": {
+            "afaka": 2
+        },
+        "no afaka": {
+            "maneho": 2
+        },
+        "afaka maneho": {
+            "mazava": 2
+        },
+        "maneho mazava": {
+            "sy": 2
+        },
+        "mazava sy": {
+            "manohana": 2
+        },
+        "sy manohana": {
+            "ny": 2
+        },
+        "manohana ny": {
+            "heviny": 2
+        },
+        "hanana saina": {
+            "liana": 2
+        },
+        "saina liana": {
+            "amin": 2
+        },
+        "liana amin": {
+            "ny": 2
+        },
+        "ny fivoarana": {
+            "sy": 2
+        },
+        "fivoarana sy": {
+            "tia": 2
+        },
+        "sy tia": {
+            "fandrosoana": 1,
+            "ny": 1
+        },
+        "tia fandrosoana": {
+            "ho": 1
+        },
+        "fandrosoana ho": {
+            "amin": 2
+        },
+        "ho amin": {
+            "ny": 3
+        },
+        "ny tsaratsara": {
+            "kokoa": 3
+        },
+        "tsaratsara kokoa": {
+            "hatrany": 3
+        },
+        "tanjon ny": {
+            "taranja": 1,
+            "fampianarana": 1
+        },
+        "ny taranja": {
+            "malagasy": 2,
+            "nirotsahana": 1
+        },
+        "taranja malagasy": {
+            "aty": 1,
+            "ao": 1
+        },
+        "malagasy aty": {
+            "amin": 1
+        },
+        "aty amin": {
+            "ny": 1
+        },
+        "ny ambaratonga": {
+            "fahatelo": 2,
+            "faharoa": 2
+        },
+        "ny mpianatra": {
+            "nahavita": 5,
+            "ny": 1,
+            "anjara": 1,
+            "rehetra": 1,
+            "mba": 1,
+            "amin": 2,
+            "satria": 1,
+            "alohan": 1,
+            "any": 2,
+            "ao": 1,
+            "kely": 1
+        },
+        "mpianatra nahavita": {
+            "ny": 4,
+            "fianarana": 1
+        },
+        "nahavita ny": {
+            "fianarana": 2,
+            "kilasy": 1,
+            "sekoly": 1
+        },
+        "ny fianarana": {
+            "ato": 2,
+            "ity": 1
+        },
+        "fianarana ato": {
+            "amin": 2
+        },
+        "ato amin": {
+            "ny": 3
+        },
+        "ambaratonga fahatelo": {
+            "dia": 1
+        },
+        "fahatelo dia": {
+            "afaka": 1
+        },
+        "ary miaro": {
+            "ny": 1
+        },
+        "miaro ny": {
+            "haren": 1
+        },
+        "manana saina": {
+            "matotra": 1
+        },
+        "saina matotra": {
+            "sy": 2
+        },
+        "matotra sy": {
+            "mahay": 1,
+            "matsilo": 1,
+            "mirindra": 1
+        },
+        "sy mahay": {
+            "mandanjalanja": 1
+        },
+        "mahay mandanjalanja": {
+            "ary": 1
+        },
+        "mandanjalanja ary": {
+            "tia": 1
+        },
+        "ary tia": {
+            "karokaroka": 1
+        },
+        "manaporofo ny": {
+            "fananany": 2,
+            "fahaizany": 1
+        },
+        "ny fananany": {
+            "saina": 2
+        },
+        "fananany saina": {
+            "mahay": 1,
+            "matotra": 1
+        },
+        "saina mahay": {
+            "mamakafaka": 1
+        },
+        "mahay mamakafaka": {
+            "ary": 1
+        },
+        "mamakafaka ary": {
+            "maneho": 1
+        },
+        "ary maneho": {
+            "sy": 1
+        },
+        "maneho sy": {
+            "man": 1
+        },
+        "sy man": {
+            "ohana": 1
+        },
+        "man ohana": {
+            "ny": 1
+        },
+        "ohana ny": {
+            "heviny": 1
+        },
+        "mikirakira sy": {
+            "mampiasa": 1
+        },
+        "sy mampiasa": {
+            "ny": 1
+        },
+        "mampiasa ny": {
+            "teny": 2
+        },
+        "malagasy amin": {
+            "ny": 1
+        },
+        "maha fitaovam": {
+            "panehoan": 1
+        },
+        "fitaovam panehoan": {
+            "kevitra": 1
+        },
+        "panehoan kevitra": {
+            "sy": 1
+        },
+        "kevitra sy": {
+            "fifandraisana": 1,
+            "ny": 1,
+            "filazan": 1
+        },
+        "sy fifandraisana": {
+            "azy": 1
+        },
+        "manakatra ny": {
+            "haren": 1,
+            "hevitra": 2,
+            "rafi": 2,
+            "fiheverana": 1
+        },
+        "firenen kafa": {
+            "ary": 1
+        },
+        "kafa ary": {
+            "misokatra": 1
+        },
+        "ary misokatra": {
+            "amin": 1
+        },
+        "fahalalana iombonan": {
+            "ny": 1
+        },
+        "iombonan ny": {
+            "zanak": 1
+        },
+        "ny zanak": {
+            "olombelona": 1,
+            "isivon": 1
+        },
+        "tanjona ankapobeny": {
+            "ato": 1
+        },
+        "ankapobeny ato": {
+            "amin": 1
+        },
+        "ny kilasy": {
+            "fahatelo": 1,
+            "famaranana": 1,
+            "teo": 1,
+            "rehetra": 1
+        },
+        "kilasy famaranana": {
+            "dia": 1
+        },
+        "famaranana dia": {
+            "afaka": 1
+        },
+        "ny tanjona": {
+            "rehetra": 1
+        },
+        "tanjona rehetra": {
+            "tany": 1
+        },
+        "rehetra tany": {
+            "amin": 1
+        },
+        "tany amin": {
+            "ny": 2
+        },
+        "kilasy teo": {
+            "aloha": 1
+        },
+        "hevitra rehetra": {
+            "mifampikasoka": 1
+        },
+        "rehetra mifampikasoka": {
+            "aminy": 1
+        },
+        "mifampikasoka aminy": {
+            "ao": 1
+        },
+        "aminy ao": {
+            "main": 1
+        },
+        "ao main": {
+            "ny": 1
+        },
+        "main ny": {
+            "sehatra": 1,
+            "lafiny": 1
+        },
+        "ny sehatra": {
+            "samihafa": 1,
+            "isankarazany": 1
+        },
+        "sy matsilo": {
+            "voataiza": 1
+        },
+        "matsilo voataiza": {
+            "tamina": 1
+        },
+        "voataiza tamina": {
+            "vakomanitra": 1
+        },
+        "tamina vakomanitra": {
+            "feno": 1
+        },
+        "vakomanitra feno": {
+            "sy": 1
+        },
+        "feno sy": {
+            "ampy": 1
+        },
+        "malagasy ny": {
+            "fiheverany": 1,
+            "amin": 4
+        },
+        "ny fiheverany": {
+            "ny": 2,
+            "ao": 1
+        },
+        "fiheverany ny": {
+            "amin": 1,
+            "olombelona": 1
+        },
+        "ny amin": {
+            "ny": 7,
+            "ireo": 1
+        },
+        "ny tontolom": {
+            "piaraha": 1
+        },
+        "tontolom piaraha": {
+            "miainy": 1
+        },
+        "piaraha miainy": {
+            "ary": 1
+        },
+        "miainy ary": {
+            "ny": 1
+        },
+        "fivoaran izany": {
+            "manaraka": 1
+        },
+        "izany manaraka": {
+            "ny": 1
+        },
+        "anisan ny": {
+            "fahalalahana": 1,
+            "mahakanto": 1
+        },
+        "ny fahalalahana": {
+            "fototra": 1
+        },
+        "fahalalahana fototra": {
+            "ilaina": 1
+        },
+        "fototra ilaina": {
+            "amin": 1
+        },
+        "ilaina amin": {
+            "ny": 1
+        },
+        "fianarana ity": {
+            "took": 1
+        },
+        "ity took": {
+            "ity": 1
+        },
+        "took ity": {
+            "ny": 1
+        },
+        "ity ny": {
+            "mikasika": 1
+        },
+        "ny mikasika": {
+            "ny": 1
+        },
+        "mikasika ny": {
+            "marina": 1,
+            "hakanto": 1
+        },
+        "ny marina": {
+            "ny": 1
+        },
+        "marina ny": {
+            "rariny": 1
+        },
+        "ny rariny": {
+            "ary": 1
+        },
+        "rariny ary": {
+            "ny": 1
+        },
+        "ny hitsiny": {
+            "noho": 1
+        },
+        "hitsiny noho": {
+            "izany": 1
+        },
+        "izany dia": {
+            "ny": 1,
+            "tena": 1,
+            "azo": 1
+        },
+        "dia ny": {
+            "valin": 1,
+            "antrôpôlôjia": 1
+        },
+        "ny valin": {
+            "ny": 1
+        },
+        "valin ny": {
+            "tombana": 1
+        },
+        "ny tombana": {
+            "nandrefesana": 1
+        },
+        "tombana nandrefesana": {
+            "ny": 1
+        },
+        "nandrefesana ny": {
+            "fahafolahan": 1
+        },
+        "ny fahafolahan": {
+            "ny": 1
+        },
+        "fahafolahan ny": {
+            "mpianatra": 1
+        },
+        "mpianatra ny": {
+            "amin": 1
+        },
+        "amin ireo": {
+            "lohahevitra": 1,
+            "hery": 1,
+            "afaka": 1,
+            "mponina": 1
+        },
+        "ireo lohahevitra": {
+            "ireo": 1,
+            "efa": 1
+        },
+        "lohahevitra ireo": {
+            "no": 1
+        },
+        "ireo no": {
+            "amerana": 1,
+            "isan": 1
+        },
+        "no amerana": {
+            "na": 1
+        },
+        "amerana na": {
+            "famerenana": 1
+        },
+        "na famerenana": {
+            "sy": 1
+        },
+        "famerenana sy": {
+            "na": 1,
+            "fanatevenana": 1
+        },
+        "sy na": {
+            "fandalinana": 1,
+            "fanadihadiana": 1,
+            "lahabolana": 1
+        },
+        "na fandalinana": {
+            "no": 1
+        },
+        "fandalinana no": {
+            "atao": 1
+        },
+        "famaritana ara": {
+            "piforonan": 3
+        },
+        "ara piforonan": {
+            "teny": 3
+        },
+        "piforonan teny": {
+            "araka": 1
+        },
+        "teny araka": {
+            "ny": 1
+        },
+        "araka ny": {
+            "fiheverana": 2,
+            "famaritana": 1,
+            "ahitana": 1,
+            "fitsipika": 1
+        },
+        "ny fiheverana": {
+            "nentim": 1,
+            "samihafa": 1,
+            "malagasy": 1,
+            "ny": 1,
+            "azy": 1
+        },
+        "fiheverana nentim": {
+            "paharazana": 1
+        },
+        "nentim paharazana": {
+            "sy": 1,
+            "ny": 1
+        },
+        "paharazana sy": {
+            "nentim": 1
+        },
+        "sy nentim": {
+            "bahiny": 1
+        },
+        "nentim bahiny": {
+            "famaritana": 1
+        },
+        "bahiny famaritana": {
+            "nataona": 1
+        },
+        "famaritana nataona": {
+            "mpanoratra": 1
+        },
+        "nataona mpanoratra": {
+            "na": 1
+        },
+        "mpanoratra na": {
+            "olon": 2
+        },
+        "na olon": {
+            "tsotra": 2
+        },
+        "asa azo": {
+            "tanterahina": 1
+        },
+        "fanadihadiana lahatsoratra": {
+            "iaraha": 1,
+            "na": 1
+        },
+        "lahatsoratra iaraha": {
+            "manao": 1
+        },
+        "famelabelaran kevitra": {
+            "ataona": 2,
+            "tarihin": 1,
+            "ny": 1
+        },
+        "kevitra ataona": {
+            "sokajy": 2
+        },
+        "ataona sokajy": {
+            "rahina": 1,
+            "arahim": 1
+        },
+        "sokajy rahina": {
+            "adihevitra": 1
+        },
+        "rahina adihevitra": {
+            "sy": 1
+        },
+        "adihevitra sy": {
+            "fandravonana": 1
+        },
+        "valan dresaka": {
+            "anasana": 2
+        },
+        "dresaka anasana": {
+            "tompon": 1,
+            "ireo": 1
+        },
+        "anasana tompon": {
+            "andfraikitra": 1
+        },
+        "tompon andfraikitra": {
+            "eo": 1
+        },
+        "andfraikitra eo": {
+            "amin": 1
+        },
+        "ny lafiny": {
+            "finoana": 2,
+            "fiheverana": 1,
+            "ratsy": 1,
+            "tsara": 1,
+            "toe": 1,
+            "sôsialy": 1,
+            "fitondrana": 1,
+            "maha": 1,
+            "rehetra": 1,
+            "mosavy": 1,
+            "sosialy": 1,
+            "kolontsaina": 1,
+            "hevitra": 1,
+            "fitsipi": 1,
+            "fanehoan": 1
+        },
+        "lafiny finoana": {
+            "fanabeazana": 1,
+            "amam": 1
+        },
+        "finoana fanabeazana": {
+            "andraisan": 1
+        },
+        "fanabeazana andraisan": {
+            "ny": 1
+        },
+        "andraisan ny": {
+            "mpianatra": 2,
+            "tsirairay": 1
+        },
+        "mpianatra anjara": {
+            "fanontaniana": 1
+        },
+        "anjara fanontaniana": {
+            "adi": 1
+        },
+        "fanontaniana adi": {
+            "hevitra": 1
+        },
+        "adihevitra iaraha": {
+            "manao": 1
+        },
+        "iaraha manao": {
+            "tarihin": 1,
+            "miainga": 1
+        },
+        "manao tarihin": {
+            "ny": 1
+        },
+        "tarihin ny": {
+            "mpampianatra": 4
+        },
+        "sokajy arahim": {
+            "pitsekerana": 1
+        },
+        "arahim pitsekerana": {
+            "sy": 1
+        },
+        "pitsekerana sy": {
+            "fanolorana": 1
+        },
+        "sy fanolorana": {
+            "soso": 1
+        },
+        "fanolorana soso": {
+            "kevitra": 1
+        },
+        "soso kevitra": {
+            "ny": 1
+        },
+        "kevitra ny": {
+            "sokajy": 1,
+            "mpampianatra": 1
+        },
+        "ny sokajy": {
+            "no": 1
+        },
+        "sokajy no": {
+            "mitarika": 1
+        },
+        "no mitarika": {
+            "ny": 1
+        },
+        "mitarika ny": {
+            "adihevitra": 1
+        },
+        "fampitahana eo": {
+            "main": 1
+        },
+        "eo main": {
+            "ny": 1
+        },
+        "lafiny fiheverana": {
+            "azy": 1
+        },
+        "fiheverana azy": {
+            "ny": 1
+        },
+        "azy ny": {
+            "endrika": 1,
+            "asa": 1
+        },
+        "ny endrika": {
+            "isehoany": 1,
+            "isehoan": 1
+        },
+        "endrika isehoany": {
+            "ny": 1
+        },
+        "isehoany ny": {
+            "loharanony": 1
+        },
+        "ny loharanony": {
+            "iaraha": 1
+        },
+        "loharanony iaraha": {
+            "manao": 1
+        },
+        "manao miainga": {
+            "amin": 1
+        },
+        "miainga amin": {
+            "ny": 5
+        },
+        "ny fikarohana": {
+            "fanangonana": 1
+        },
+        "fikarohana fanangonana": {
+            "tamina": 1
+        },
+        "fanangonana tamina": {
+            "tahirin": 1
+        },
+        "tamina tahirin": {
+            "kevitra": 1
+        },
+        "tahirin kevitra": {
+            "nampanaovina": 1
+        },
+        "kevitra nampanaovina": {
+            "mialoha": 1
+        },
+        "nampanaovina mialoha": {
+            "ny": 1
+        },
+        "mialoha ny": {
+            "tsirairay": 1
+        },
+        "ny tsirairay": {
+            "n": 1,
+            "anjara": 1,
+            "hanam": 1
+        },
+        "tsirairay n": {
+            "any": 1
+        },
+        "n any": {
+            "sokajy": 1
+        },
+        "any sokajy": {
+            "tsirairay": 1
+        },
+        "raha ilaina": {
+            "dia": 1
+        },
+        "ilaina dia": {
+            "tsar": 1
+        },
+        "dia tsar": {
+            "any": 1
+        },
+        "tsar any": {
+            "anaovana": 1
+        },
+        "any anaovana": {
+            "famerenana": 1
+        },
+        "anaovana famerenana": {
+            "sy": 1
+        },
+        "sy fanatevenana": {
+            "ny": 1
+        },
+        "fanatevenana ny": {
+            "fahalalana": 1
+        },
+        "fahalalana momba": {
+            "ireo": 1
+        },
+        "momba ireo": {
+            "lohahevitra": 1
+        },
+        "lohahevitra efa": {
+            "hita": 1
+        },
+        "efa hita": {
+            "tany": 2
+        },
+        "hita tany": {
+            "aloha": 1,
+            "amin": 1
+        },
+        "tany aloha": {
+            "ka": 1
+        },
+        "aloha ka": {
+            "mifandrohy": 1
+        },
+        "ka mifandrohy": {
+            "amin": 1
+        },
+        "mifandrohy amin": {
+            "ity": 1
+        },
+        "amin ity": {
+            "lohahevitra": 1,
+            "magazay": 1,
+            "fokontany": 1
+        },
+        "ity lohahevitra": {
+            "ity": 1
+        },
+        "adihevitra na": {
+            "fanadihadiana": 1
+        },
+        "na fanadihadiana": {
+            "literatiora": 1,
+            "mivantana": 1
+        },
+        "fanadihadiana literatiora": {
+            "tarihin": 1
+        },
+        "literatiora tarihin": {
+            "ny": 1
+        },
+        "kevitra tarihin": {
+            "ny": 1
+        },
+        "ny mpampianatra": {
+            "na": 2,
+            "hatrany": 1
+        },
+        "mpampianatra na": {
+            "sokajy": 2
+        },
+        "na sokajy": {
+            "iray": 2
+        },
+        "fanazavana tsotsotra": {
+            "ny": 1
+        },
+        "tsotsotra ny": {
+            "antsoina": 1
+        },
+        "ny antsoina": {
+            "hoe": 3
+        },
+        "antsoina hoe": {
+            "hery": 1,
+            "olona": 1,
+            "andriamanitra": 1
+        },
+        "hoe hery": {
+            "tsy": 1
+        },
+        "hery tsy": {
+            "hita": 1
+        },
+        "tsy hita": {
+            "fitanisanba": 1
+        },
+        "hita fitanisanba": {
+            "azy": 1
+        },
+        "fitanisanba azy": {
+            "ireny": 1
+        },
+        "famaritana miainga": {
+            "amin": 1
+        },
+        "ny fiforonan": {
+            "teny": 1
+        },
+        "fampitahjana miainga": {
+            "amin": 1
+        },
+        "hevitra mpanoratra": {
+            "na": 1
+        },
+        "olon tsotra": {
+            "mikasika": 1
+        },
+        "tsotra mikasika": {
+            "ireo": 1
+        },
+        "mikasika ireo": {
+            "karazan": 1
+        },
+        "ireo karazan": {
+            "kery": 2
+        },
+        "karazan kery": {
+            "ireo": 1,
+            "inoany": 1
+        },
+        "kery ireo": {
+            "vaky": 1
+        },
+        "ireo vaky": {
+            "boky": 1
+        },
+        "vaky boky": {
+            "sy": 1
+        },
+        "boky sy": {
+            "na": 1
+        },
+        "fanadihadiana mivantana": {
+            "arahina": 1
+        },
+        "mivantana arahina": {
+            "fandravonana": 1
+        },
+        "adihevitra andraisan": {
+            "ny": 1
+        },
+        "tsirairay anjara": {
+            "ary": 1
+        },
+        "anjara ary": {
+            "tarihin": 1
+        },
+        "ary tarihin": {
+            "ny": 1
+        },
+        "lahatsoratra na": {
+            "lahabolana": 2,
+            "lovantsofina": 1
+        },
+        "anasana ireo": {
+            "tmpon": 1
+        },
+        "ireo tmpon": {
+            "andraikitra": 1
+        },
+        "tmpon andraikitra": {
+            "ara": 1
+        },
+        "andraikitra ara": {
+            "pinoana": 1
+        },
+        "ara pinoana": {
+            "samihafa": 1
+        },
+        "pinoana samihafa": {
+            "andraisan": 1
+        },
+        "samihafa andraisan": {
+            "ny": 1
+        },
+        "mpianatra rehetra": {
+            "anjara": 1
+        },
+        "rehetra anjara": {
+            "adihevitra": 1
+        },
+        "anjara adihevitra": {
+            "fanontaniana": 1
+        },
+        "adihevitra fanontaniana": {
+            "sns": 1
+        },
+        "fampitahana ny": {
+            "fomba": 1
+        },
+        "ny fomba": {
+            "amam": 3,
+            "hamadihana": 1,
+            "fiteny": 1
+        },
+        "fomba amam": {
+            "panao": 1,
+            "panaony": 1,
+            "piheveran": 1
+        },
+        "amam panao": {
+            "sy": 1
+        },
+        "panao sy": {
+            "na": 1
+        },
+        "na lahabolana": {
+            "misy": 1,
+            "dinihina": 1
+        },
+        "lahabolana misy": {
+            "amin": 1
+        },
+        "misy amin": {
+            "ny": 1,
+            "ireo": 1
+        },
+        "ny faritra": {
+            "samihafa": 1,
+            "mena": 1,
+            "atsinanana": 1,
+            "indostrialy": 1,
+            "afovoany": 1,
+            "andrefana": 1,
+            "avaratra": 1,
+            "misy": 1
+        },
+        "faritra samihafa": {
+            "manerana": 1
+        },
+        "samihafa manerana": {
+            "ny": 1
+        },
+        "manerana ny": {
+            "nosy": 1
+        },
+        "ny nosy": {
+            "ka": 1
+        },
+        "nosy ka": {
+            "itrandrahana": 1
+        },
+        "ka itrandrahana": {
+            "izay": 1
+        },
+        "itrandrahana izay": {
+            "fototra": 1
+        },
+        "izay fototra": {
+            "iraisan": 2,
+            "ahafahana": 1
+        },
+        "fototra iraisan": {
+            "izy": 2
+        },
+        "iraisan izy": {
+            "ireny": 2
+        },
+        "izy ireny": {
+            "isan": 1,
+            "fanakarana": 1
+        },
+        "ireny isan": {
+            "tokony": 1
+        },
+        "isan tokony": {
+            "miainga": 1
+        },
+        "tokony miainga": {
+            "amin": 1
+        },
+        "ny hevitry": {
+            "ny": 2
+        },
+        "hevitry ny": {
+            "teny": 2
+        },
+        "teny sy": {
+            "ny": 2,
+            "soratra": 1
+        },
+        "ny fihetsika": {
+            "ary": 2
+        },
+        "fihetsika ary": {
+            "ny": 2
+        },
+        "ny zavatra": {
+            "ampiasaina": 1
+        },
+        "zavatra ampiasaina": {
+            "amin": 1
+        },
+        "ampiasaina amin": {
+            "izy": 1,
+            "ny": 2
+        },
+        "amin izy": {
+            "ireny": 1
+        },
+        "fitrandrahana izay": {
+            "fototra": 1
+        },
+        "ireny fanakarana": {
+            "hevitra": 1
+        },
+        "fanakarana hevitra": {
+            "ilafihany": 1
+        },
+        "hevitra ilafihany": {
+            "amin": 1
+        },
+        "ilafihany amin": {
+            "ny": 1
+        },
+        "ny alalan": {
+            "ny": 2
+        },
+        "alalan ny": {
+            "fampifandraisana": 1,
+            "fomba": 1
+        },
+        "ny fampifandraisana": {
+            "ny": 1
+        },
+        "fampifandraisana ny": {
+            "antony": 1
+        },
+        "ny antony": {
+            "vokany": 1,
+            "nanomezanay": 1
+        },
+        "antony vokany": {
+            "na": 1
+        },
+        "vokany na": {
+            "toe": 1
+        },
+        "na toe": {
+            "javatra": 1
+        },
+        "toe javatra": {
+            "antony": 1,
+            "fizika": 1
+        },
+        "javatra antony": {
+            "ny": 1
+        },
+        "antony ny": {
+            "hevitry": 1
+        },
+        "ny zvatra": {
+            "ampiasaina": 1
+        },
+        "zvatra ampiasaina": {
+            "a": 1
+        },
+        "ampiasaina a": {
+            "songadina": 1
+        },
+        "a songadina": {
+            "amin": 1
+        },
+        "songadina amin": {
+            "izany": 1
+        },
+        "amin izany": {
+            "fa": 1
+        },
+        "izany fa": {
+            "ny": 1,
+            "tsy": 1,
+            "mila": 1
+        },
+        "fa ny": {
+            "tahotra": 1,
+            "fiainako": 1
+        },
+        "ny tahotra": {
+            "ny": 1
+        },
+        "tahotra ny": {
+            "aina": 1
+        },
+        "ny aina": {
+            "ny": 1,
+            "sy": 1
+        },
+        "aina ny": {
+            "hampaharitra": 1
+        },
+        "ny hampaharitra": {
+            "ny": 1
+        },
+        "hampaharitra ny": {
+            "karazana": 1
+        },
+        "ny karazana": {
+            "no": 1
+        },
+        "karazana no": {
+            "fototra": 1
+        },
+        "no fototra": {
+            "ilafihan": 1
+        },
+        "fototra ilafihan": {
+            "izany": 1,
+            "ny": 1
+        },
+        "ny olombelona": {
+            "sy": 1
+        },
+        "olombelona sy": {
+            "ny": 1
+        },
+        "mamantatra ny": {
+            "fiheverana": 2
+        },
+        "fiheverana samihafa": {
+            "ny": 1
+        },
+        "samihafa ny": {
+            "amin": 1
+        },
+        "manoritsoritra ny": {
+            "fifansraisan": 1,
+            "vokatry": 1,
+            "fifandraisana": 1,
+            "endrika": 1
+        },
+        "ny fifansraisan": {
+            "ny": 1
+        },
+        "fifansraisan ny": {
+            "fanahy": 1
+        },
+        "ny fanahy": {
+            "sy": 1
+        },
+        "sy ireo": {
+            "singa": 1
+        },
+        "ireo singa": {
+            "mahaolona": 1
+        },
+        "singa mahaolona": {
+            "ny": 1
+        },
+        "mahaolona ny": {
+            "olona": 1
+        },
+        "manombana ny": {
+            "anjara": 2,
+            "fandrosoan": 1
+        },
+        "ny anjara": {
+            "toerana": 1,
+            "toeran": 1
+        },
+        "anjara toerana": {
+            "tokony": 1
+        },
+        "toerana tokony": {
+            "homena": 1
+        },
+        "tokony homena": {
+            "ireoi": 1
+        },
+        "homena ireoi": {
+            "endri": 1
+        },
+        "ireoi endri": {
+            "poifandraisana": 1
+        },
+        "endri poifandraisana": {
+            "ireo": 1
+        },
+        "poifandraisana ireo": {
+            "manoloana": 1
+        },
+        "ireo manoloana": {
+            "ny": 1
+        },
+        "manoloana ny": {
+            "zava": 1,
+            "fampivelarana": 1
+        },
+        "ny zava": {
+            "misy": 5,
+            "mitranga": 2
+        },
+        "zava misy": {
+            "ankehitriny": 1,
+            "ao": 1,
+            "sy": 1,
+            "eo": 1,
+            "izany": 1,
+            "any": 1
+        },
+        "mamakafaka ny": {
+            "fiheveran": 1,
+            "hevitra": 1,
+            "haren": 1
+        },
+        "ny fiheveran": {
+            "ny": 3
+        },
+        "fiheveran ny": {
+            "malagasy": 2,
+            "olona": 1,
+            "maro": 1
+        },
+        "ny malagasy": {
+            "ny": 2
+        },
+        "ny vokatry": {
+            "ny": 2
+        },
+        "vokatry ny": {
+            "tsy": 1,
+            "finoana": 1
+        },
+        "ny tsy": {
+            "fahalavorarian": 1
+        },
+        "tsy fahalavorarian": {
+            "ny": 1
+        },
+        "fahalavorarian ny": {
+            "fifampitondrana": 1
+        },
+        "ny fifampitondrana": {
+            "sy": 1
+        },
+        "fifampitondrana sy": {
+            "ny": 1
+        },
+        "ny fifandraisana": {
+            "eo": 2,
+            "sy": 1
+        },
+        "fifandraisana eo": {
+            "amin": 2
+        },
+        "ny fiaraha": {
+            "monina": 2
+        },
+        "mamaritra ny": {
+            "fahasamihafan": 1,
+            "lafi": 1,
+            "antsoina": 1
+        },
+        "ny fahasamihafan": {
+            "ny": 1
+        },
+        "fahasamihafan ny": {
+            "tsiny": 1
+        },
+        "ny tsiny": {
+            "sy": 2
+        },
+        "tsiny sy": {
+            "ny": 2
+        },
+        "ny finoana": {
+            "azy": 3,
+            "ny": 1,
+            "sy": 1
+        },
+        "finoana azy": {
+            "eo": 1,
+            "ho": 1,
+            "manoloana": 1
+        },
+        "azy eo": {
+            "amin": 2
+        },
+        "ny lafi": {
+            "kevitra": 1
+        },
+        "lafi kevitra": {
+            "ifotoran": 1
+        },
+        "kevitra ifotoran": {
+            "ny": 1
+        },
+        "ifotoran ny": {
+            "finoana": 1
+        },
+        "finoana ny": {
+            "tsiny": 1
+        },
+        "ny tody": {
+            "mba": 1
+        },
+        "tody mba": {
+            "hahaizana": 1
+        },
+        "mba hahaizana": {
+            "mamadika": 1
+        },
+        "hahaizana mamadika": {
+            "izany": 1
+        },
+        "mamadika izany": {
+            "ho": 1
+        },
+        "izany ho": {
+            "hery": 1
+        },
+        "ho hery": {
+            "azo": 2
+        },
+        "hery azo": {
+            "fehezina": 1,
+            "ampiasaina": 1
+        },
+        "azo fehezina": {
+            "hoenti": 1
+        },
+        "fehezina hoenti": {
+            "mampivelatra": 1
+        },
+        "hoenti mampivelatra": {
+            "ny": 1
+        },
+        "mampivelatra ny": {
+            "maha": 1
+        },
+        "fiheverana malagasy": {
+            "ny": 1
+        },
+        "ny fifandraisan": {
+            "ny": 1
+        },
+        "fifandraisan ny": {
+            "tontolo": 1
+        },
+        "ny tontolo": {
+            "hita": 1,
+            "tsy": 1,
+            "misy": 1,
+            "iainana": 3,
+            "iainany": 1
+        },
+        "tontolo hita": {
+            "sy": 1
+        },
+        "hita sy": {
+            "ny": 1
+        },
+        "tontolo tsy": {
+            "hita": 1
+        },
+        "mamantatra ireo": {
+            "karazan": 1
+        },
+        "kery inoany": {
+            "fa": 1
+        },
+        "inoany fa": {
+            "mifaningotra": 1
+        },
+        "fa mifaningotra": {
+            "amin": 1
+        },
+        "mifaningotra amin": {
+            "ny": 1
+        },
+        "ny zotram": {
+            "piainany": 1
+        },
+        "fifandraisana sy": {
+            "ny": 1
+        },
+        "ny fahasamihafana": {
+            "misy": 1
+        },
+        "fahasamihafana misy": {
+            "amin": 1
+        },
+        "ireo hery": {
+            "ireo": 2
+        },
+        "hery ireo": {
+            "tsirairay": 1,
+            "amin": 1
+        },
+        "ireo tsirairay": {
+            "avy": 1
+        },
+        "anjara toeran": {
+            "ireo": 1
+        },
+        "toeran ireo": {
+            "hery": 1
+        },
+        "ireo amin": {
+            "ny": 1
+        },
+        "ny fiainam": {
+            "piaraha": 1
+        },
+        "fiainam piaraha": {
+            "monina": 1
+        },
+        "maminavina ny": {
+            "fomba": 1
+        },
+        "fomba hamadihana": {
+            "ny": 1
+        },
+        "hamadihana ny": {
+            "finoana": 1
+        },
+        "azy ho": {
+            "hery": 1,
+            "any": 1
+        },
+        "azo ampiasaina": {
+            "amin": 1
+        },
+        "ny fampivelarana": {
+            "ny": 2
+        },
+        "fampivelarana ny": {
+            "maha": 2
+        },
+        "fiheverana ny": {
+            "amin": 1
+        },
+        "ny hery": {
+            "inoana": 1
+        },
+        "hery inoana": {
+            "fa": 1
+        },
+        "inoana fa": {
+            "mitantana": 1
+        },
+        "fa mitantana": {
+            "ny": 1
+        },
+        "mitantana ny": {
+            "fiainany": 1
+        },
+        "ny fiainany": {
+            "ary": 1
+        },
+        "fiainany ary": {
+            "antoky": 1
+        },
+        "ary antoky": {
+            "ny": 1
+        },
+        "antoky ny": {
+            "fisiany": 1
+        },
+        "hoe andriamanitra": {
+            "zanahary": 1
+        },
+        "andriamanitra zanahary": {
+            "razana": 1
+        },
+        "endrika isehoan": {
+            "ny": 1
+        },
+        "isehoan ny": {
+            "araka": 1
+        },
+        "ny araka": {
+            "ny": 1
+        },
+        "hevitra fotra": {
+            "ilafihan": 1
+        },
+        "fotra ilafihan": {
+            "ny": 1
+        },
+        "ilafihan ny": {
+            "finoana": 1,
+            "fiheveran": 1
+        },
+        "azy manoloana": {
+            "ny": 1
+        },
+        "hevitra fototra": {
+            "ilafihan": 1
+        },
+        "aina sy": {
+            "ny": 1
+        },
+        "tontolo misy": {
+            "azy": 1
+        },
+        "ny fiarahamonina": {
+            "tsirairay": 1,
+            "iray": 1,
+            "rehetra": 1,
+            "ny": 1,
+            "malagasy": 1,
+            "ao": 1
+        },
+        "fiarahamonina tsirairay": {
+            "avy": 1
+        },
+        "tsirairay avy": {
+            "dia": 1
+        },
+        "avy dia": {
+            "samy": 1
+        },
+        "dia samy": {
+            "manana": 1
+        },
+        "samy manana": {
+            "ny": 1
+        },
+        "manana ny": {
+            "mampiavaka": 1
+        },
+        "ny mampiavaka": {
+            "azy": 2
+        },
+        "ao ny": {
+            "miavaka": 1,
+            "misongadina": 1
+        },
+        "ny miavaka": {
+            "amin": 1
+        },
+        "miavaka amin": {
+            "ny": 1
+        },
+        "fomba fiteny": {
+            "sy": 1
+        },
+        "fiteny sy": {
+            "ny": 1
+        },
+        "fiheverany ao": {
+            "ny": 1
+        },
+        "ny misongadina": {
+            "noho": 1
+        },
+        "misongadina noho": {
+            "ny": 1
+        },
+        "noho ny": {
+            "kolontsaina": 1,
+            "zava": 1,
+            "asan": 1
+        },
+        "amam panaony": {
+            "ny": 1
+        },
+        "panaony ny": {
+            "tantarany": 1
+        },
+        "tsy vitsy": {
+            "ireo": 1,
+            "amin": 1
+        },
+        "vitsy ireo": {
+            "tonga": 1
+        },
+        "ireo tonga": {
+            "manakoako": 1
+        },
+        "tonga manakoako": {
+            "eran": 1
+        },
+        "manakoako eran": {
+            "tany": 1
+        },
+        "tany noho": {
+            "ny": 1
+        },
+        "misy ao": {
+            "aminy": 1
+        },
+        "ao aminy": {
+            "toy": 1
+        },
+        "aminy toy": {
+            "ny": 1
+        },
+        "ny harena": {
+            "voajanahary": 1
+        },
+        "harena voajanahary": {
+            "ny": 1
+        },
+        "voajanahary ny": {
+            "fahitana": 1
+        },
+        "ny fahitana": {
+            "na": 1
+        },
+        "fahitana na": {
+            "famoronana": 1
+        },
+        "na famoronana": {
+            "zava": 1
+        },
+        "famoronana zava": {
+            "baovao": 1
+        },
+        "tsy tokony": {
+            "hohadinoina": 1
+        },
+        "tokony hohadinoina": {
+            "anefa": 1
+        },
+        "hohadinoina anefa": {
+            "fa": 1
+        },
+        "anefa fa": {
+            "mety": 1,
+            "nisy": 1
+        },
+        "fa mety": {
+            "ho": 1
+        },
+        "mety ho": {
+            "ny": 2,
+            "zava": 1,
+            "antony": 1,
+            "fivoarany": 1
+        },
+        "ho ny": {
+            "lafiny": 2
+        },
+        "lafiny ratsy": {
+            "no": 1
+        },
+        "ratsy no": {
+            "mampiavaka": 1
+        },
+        "no mampiavaka": {
+            "ary": 1
+        },
+        "mampiavaka ary": {
+            "mampalaza": 1
+        },
+        "ary mampalaza": {
+            "ilay": 1
+        },
+        "mampalaza ilay": {
+            "fiarahamonina": 1
+        },
+        "ilay fiarahamonina": {
+            "mety": 1,
+            "izany": 1
+        },
+        "fiarahamonina mety": {
+            "ho": 1
+        },
+        "misy fiantraikany": {
+            "eo": 1
+        },
+        "fiantraikany eo": {
+            "amin": 1
+        },
+        "amin ilay": {
+            "fiarahamonina": 1
+        },
+        "fiarahamonina izany": {
+            "ka": 1
+        },
+        "izany ka": {
+            "na": 1
+        },
+        "ka na": {
+            "fanoitra": 1
+        },
+        "na fanoitra": {
+            "iray": 1
+        },
+        "fanoitra iray": {
+            "hahafahany": 1
+        },
+        "iray hahafahany": {
+            "misondrotra": 1
+        },
+        "hahafahany misondrotra": {
+            "mandroso": 1
+        },
+        "misondrotra mandroso": {
+            "ho": 1
+        },
+        "mandroso ho": {
+            "any": 1
+        },
+        "ho any": {
+            "amin": 2,
+            "an": 1,
+            "am": 2
+        },
+        "any amin": {
+            "ny": 16
+        },
+        "kokoa hatrany": {
+            "na": 1
+        },
+        "hatrany na": {
+            "sakana": 1
+        },
+        "na sakana": {
+            "mampitambotsitra": 1
+        },
+        "sakana mampitambotsitra": {
+            "azy": 1
+        },
+        "mampitambotsitra azy": {
+            "ho": 1
+        },
+        "ny fahapotehana": {
+            "fahantrana": 1
+        },
+        "voakasik izany": {
+            "ny": 1
+        },
+        "lafiny toe": {
+            "karena": 1
+        },
+        "toe karena": {
+            "ny": 1,
+            "na": 1
+        },
+        "karena ny": {
+            "lafiny": 1
+        },
+        "lafiny sôsialy": {
+            "ny": 1
+        },
+        "sôsialy ny": {
+            "lafiny": 1
+        },
+        "lafiny fitondrana": {
+            "ny": 1
+        },
+        "fitondrana ny": {
+            "lafiny": 1
+        },
+        "finoana amam": {
+            "pivavahana": 1
+        },
+        "amam pivavahana": {
+            "ary": 1
+        },
+        "pivavahana ary": {
+            "indrindra": 1
+        },
+        "ary indrindra": {
+            "indrindra": 1,
+            "ny": 1
+        },
+        "indrindra indrindra": {
+            "ny": 1
+        },
+        "indrindra ny": {
+            "lafiny": 1,
+            "riba": 1
+        },
+        "lafiny maha": {
+            "olona": 1
+        },
+        "olona izay": {
+            "fototra": 1
+        },
+        "fototra ahafahana": {
+            "mandrefy": 1
+        },
+        "ahafahana mandrefy": {
+            "na": 1
+        },
+        "mandrefy na": {
+            "manombana": 1
+        },
+        "na manombana": {
+            "ny": 1
+        },
+        "ny fandrosoan": {
+            "ny": 1
+        },
+        "fandrosoan ny": {
+            "fiarahamonina": 1
+        },
+        "tsy mandeha": {
+            "ho": 1
+        },
+        "mandeha ho": {
+            "azy": 1
+        },
+        "ho azy": {
+            "anefa": 1
+        },
+        "azy anefa": {
+            "izany": 1
+        },
+        "anefa izany": {
+            "fa": 1,
+            "fanabeazana": 1
+        },
+        "fa tsy": {
+            "maintsy": 1,
+            "miandry": 1,
+            "kilalao": 1,
+            "nitana": 1,
+            "mateza": 1
+        },
+        "tsy maintsy": {
+            "miara": 1
+        },
+        "maintsy miara": {
+            "dàlana": 1
+        },
+        "miara dàlana": {
+            "aminy": 1
+        },
+        "dàlana aminy": {
+            "eo": 1
+        },
+        "aminy eo": {
+            "ny": 1
+        },
+        "eo ny": {
+            "fanabeazana": 1
+        },
+        "ny fanabeazana": {
+            "mba": 1
+        },
+        "fanabeazana mba": {
+            "hahatonga": 1
+        },
+        "mba hahatonga": {
+            "ny": 1
+        },
+        "hahatonga ny": {
+            "tsirairay": 1
+        },
+        "tsirairay hanam": {
+            "pahendrena": 1
+        },
+        "hanam pahendrena": {
+            "sy": 1
+        },
+        "pahendrena sy": {
+            "fahalalana": 1
+        },
+        "sy fahalalana": {
+            "mba": 1
+        },
+        "fahalalana mba": {
+            "ho": 1
+        },
+        "mba ho": {
+            "olom": 1,
+            "tafita": 1
+        },
+        "ho olom": {
+            "banona": 1
+        },
+        "tsy vitan": {
+            "olon": 1
+        },
+        "vitan olon": {
+            "tsamirery": 1
+        },
+        "olon tsamirery": {
+            "ihany": 1
+        },
+        "tsamirery ihany": {
+            "koa": 1
+        },
+        "ihany koa": {
+            "anefa": 1,
+            "ny": 1
+        },
+        "koa anefa": {
+            "izany": 1
+        },
+        "izany fanabeazana": {
+            "izany": 1
+        },
+        "fanabeazana izany": {
+            "fa": 1
+        },
+        "fa mila": {
+            "ny": 1
+        },
+        "mila ny": {
+            "fifarimbonana": 1
+        },
+        "ny fifarimbonana": {
+            "sy": 1
+        },
+        "fifarimbonana sy": {
+            "ny": 1
+        },
+        "ny fandraisana": {
+            "andraikitry": 1
+        },
+        "fandraisana andraikitry": {
+            "ny": 1
+        },
+        "andraikitry ny": {
+            "rehetra": 1
+        },
+        "ny rehetra": {
+            "ao": 1
+        },
+        "rehetra ao": {
+            "anaty": 1
+        },
+        "ao anaty": {
+            "fiarahamonina": 1,
+            "vata": 1,
+            "kahie": 1
+        },
+        "araka izany": {
+            "izao": 1,
+            "tompon": 1,
+            "ny": 1
+        },
+        "izany izao": {
+            "asa": 1
+        },
+        "izao asa": {
+            "fikarohana": 1
+        },
+        "asa fikarohana": {
+            "izao": 1,
+            "ity": 2
+        },
+        "fikarohana izao": {
+            "dia": 1
+        },
+        "izao dia": {
+            "tsy": 1
+        },
+        "dia tsy": {
+            "natao": 1,
+            "anokanana": 1
+        },
+        "tsy natao": {
+            "ho": 1
+        },
+        "natao ho": {
+            "fampitam": 1,
+            "fanoitra": 1
+        },
+        "ho fampitam": {
+            "pahalalana": 1
+        },
+        "fampitam pahalalana": {
+            "fotsiny": 1
+        },
+        "pahalalana fotsiny": {
+            "fa": 1
+        },
+        "fotsiny fa": {
+            "natao": 1
+        },
+        "fa natao": {
+            "ho": 1
+        },
+        "ho fanoitra": {
+            "hikatsahana": 1
+        },
+        "fanoitra hikatsahana": {
+            "ny": 1
+        },
+        "hikatsahana ny": {
+            "mahasoa": 1
+        },
+        "ny mahasoa": {
+            "sy": 1
+        },
+        "mahasoa sy": {
+            "ny": 1
+        },
+        "ny tsara": {
+            "eo": 1
+        },
+        "tsara eo": {
+            "amin": 1
+        },
+        "ny fiainana": {
+            "mba": 1
+        },
+        "fiainana mba": {
+            "hahafahana": 1
+        },
+        "mba hahafahana": {
+            "mandroso": 1
+        },
+        "hahafahana mandroso": {
+            "manakaiky": 1
+        },
+        "mandroso manakaiky": {
+            "izay": 1
+        },
+        "manakaiky izay": {
+            "heverina": 1
+        },
+        "izay heverina": {
+            "ho": 1
+        },
+        "heverina ho": {
+            "tonga": 1
+        },
+        "ho tonga": {
+            "lafatra": 1
+        },
+        "taranja nirotsahana": {
+            "nandranto": 1
+        },
+        "nirotsahana nandranto": {
+            "fahaizana": 1
+        },
+        "nandranto fahaizana": {
+            "amam": 1
+        },
+        "fahaizana amam": {
+            "pahalalana": 1
+        },
+        "amam pahalalana": {
+            "maro": 1
+        },
+        "pahalalana maro": {
+            "izahay": 1
+        },
+        "maro izahay": {
+            "tato": 1
+        },
+        "izahay tato": {
+            "amin": 1
+        },
+        "tato amin": {
+            "ny": 1
+        },
+        "ny ecole": {
+            "normale": 1
+        },
+        "ecole normale": {
+            "supérieure": 1
+        },
+        "normale supérieure": {
+            "anisan": 1
+        },
+        "supérieure anisan": {
+            "ireny": 1
+        },
+        "anisan ireny": {
+            "izay": 1
+        },
+        "ireny izay": {
+            "notovozina": 1
+        },
+        "izay notovozina": {
+            "tao": 1
+        },
+        "notovozina tao": {
+            "amin": 1
+        },
+        "tao amin": {
+            "ny": 1
+        },
+        "ny sampana": {
+            "teny": 1
+        },
+        "sampana teny": {
+            "sy": 1
+        },
+        "sy soratra": {
+            "malagasy": 1
+        },
+        "soratra malagasy": {
+            "toy": 1
+        },
+        "malagasy toy": {
+            "ny": 1
+        },
+        "ny haifampianarana": {
+            "ny": 1
+        },
+        "haifampianarana ny": {
+            "literatiora": 1
+        },
+        "ny literatiora": {
+            "ny": 1,
+            "dia": 1,
+            "amin": 2,
+            "tantarampiainan": 1
+        },
+        "literatiora ny": {
+            "haiteny": 1
+        },
+        "ny haiteny": {
+            "ary": 1
+        },
+        "haiteny ary": {
+            "ny": 1
+        },
+        "manan tsafidy": {
+            "ny": 1
+        },
+        "tsafidy ny": {
+            "mpikaroka": 1
+        },
+        "ny mpikaroka": {
+            "amin": 1,
+            "tsirairay": 1
+        },
+        "mpikaroka amin": {
+            "ireo": 1
+        },
+        "ireo afaka": {
+            "mirotsaka": 1
+        },
+        "afaka mirotsaka": {
+            "amin": 1
+        },
+        "mirotsaka amin": {
+            "izay": 1
+        },
+        "amin izay": {
+            "taranja": 1,
+            "lohahevitra": 1
+        },
+        "izay taranja": {
+            "manavanana": 1
+        },
+        "taranja manavanana": {
+            "sy": 1
+        },
+        "manavanana sy": {
+            "mahaliana": 1
+        },
+        "sy mahaliana": {
+            "azy": 1
+        },
+        "mahaliana azy": {
+            "izy": 1
+        },
+        "raha ny": {
+            "safidinay": 1,
+            "lafiny": 1
+        },
+        "ny safidinay": {
+            "manokana": 1
+        },
+        "safidinay manokana": {
+            "dia": 1
+        },
+        "manokana dia": {
+            "ny": 1
+        },
+        "ny antrôpôlôjia": {
+            "no": 1,
+            "mifototra": 1,
+            "sôsialy": 1,
+            "mandalina": 1
+        },
+        "antrôpôlôjia no": {
+            "nirotsahanay": 1
+        },
+        "mba hahafahanay": {
+            "mitrandraka": 1
+        },
+        "hahafahanay mitrandraka": {
+            "sy": 1
+        },
+        "mitrandraka sy": {
+            "mandalina": 1
+        },
+        "sy mandalina": {
+            "ny": 1
+        },
+        "mandalina ny": {
+            "zava": 1,
+            "fiarahamonina": 1
+        },
+        "misy sy": {
+            "ny": 1,
+            "iainana": 1
+        },
+        "ny olona": {
+            "eo": 2,
+            "amin": 2,
+            "no": 1,
+            "sasany": 1,
+            "reraka": 1,
+            "tsara": 1,
+            "satria": 1,
+            "hifandraisana": 1,
+            "rehefa": 1,
+            "hananganana": 1
+        },
+        "olona eo": {
+            "anivon": 1,
+            "amin": 1
+        },
+        "eo anivon": {
+            "ny": 3
+        },
+        "anivon ny": {
+            "fiarahamonina": 2,
+            "firenena": 1
+        },
+        "ny antrôpôlojia": {
+            "mantsy": 1
+        },
+        "antrôpôlojia mantsy": {
+            "araka": 1
+        },
+        "mantsy araka": {
+            "ny": 1
+        },
+        "ny famaritana": {
+            "nataon": 1
+        },
+        "famaritana nataon": {
+            "i": 1
+        },
+        "nataon i": {
+            "laplantine": 1
+        },
+        "dia fandalinana": {
+            "ny": 1
+        },
+        "fandalinana ny": {
+            "olona": 1,
+            "mpikaroka": 1
+        },
+        "olona amin": {
+            "ny": 2
+        },
+        "maha olombelona": {
+            "azy": 1
+        },
+        "famotopotorana ny": {
+            "momba": 1
+        },
+        "ny momba": {
+            "ny": 2
+        },
+        "momba ny": {
+            "olona": 1,
+            "mosavy": 1,
+            "asa": 1,
+            "zava": 1,
+            "zavamaniry": 1
+        },
+        "fiarahamonina rehetra": {
+            "misy": 1
+        },
+        "rehetra misy": {
+            "azy": 1
+        },
+        "lafiny rehetra": {
+            "ary": 1
+        },
+        "rehetra ary": {
+            "amin": 1
+        },
+        "ary amin": {
+            "ny": 1
+        },
+        "ny taona": {
+            "rehetra": 1
+        },
+        "ahitana sampana": {
+            "maromaro": 1
+        },
+        "sampana maromaro": {
+            "ny": 1
+        },
+        "maromaro ny": {
+            "antrôpôlojia": 1
+        },
+        "ka ny": {
+            "antrôpôlôjia": 1
+        },
+        "antrôpôlôjia mifototra": {
+            "amin": 1
+        },
+        "mifototra amin": {
+            "ny": 1
+        },
+        "ny fandinihana": {
+            "ny": 3
+        },
+        "fandinihana ny": {
+            "zava": 1,
+            "filazana": 1,
+            "literatiora": 2
+        },
+        "misy eo": {
+            "amin": 2
+        },
+        "fiarahamonina ny": {
+            "finoana": 1
+        },
+        "finoana sy": {
+            "ny": 1
+        },
+        "amam piheveran": {
+            "ny": 1
+        },
+        "piheveran ny": {
+            "olona": 1
+        },
+        "olona no": {
+            "ifotoran": 1
+        },
+        "no ifotoran": {
+            "ity": 1
+        },
+        "ifotoran ity": {
+            "asa": 1
+        },
+        "ity asa": {
+            "fikarohana": 2
+        },
+        "fikarohana ity": {
+            "na": 1,
+            "hoe": 1
+        },
+        "ity na": {
+            "ny": 1
+        },
+        "na ny": {
+            "antrôpôlôjia": 1,
+            "aiko": 2
+        },
+        "antrôpôlôjia sôsialy": {
+            "sy": 1
+        },
+        "sôsialy sy": {
+            "koltoraly": 1
+        },
+        "sy koltoraly": {
+            "izany": 1
+        },
+        "ny lohatenin": {
+            "ny": 1
+        },
+        "lohatenin ny": {
+            "asa": 1
+        },
+        "ny asa": {
+            "fikarohana": 1,
+            "ny": 1,
+            "fanorenana": 1,
+            "soratra": 2,
+            "fanadihadiana": 1
+        },
+        "maro ny": {
+            "lohahevitra": 1
+        },
+        "ny lohahevitra": {
+            "azo": 1
+        },
+        "lohahevitra azo": {
+            "dinihina": 1
+        },
+        "azo dinihina": {
+            "ao": 1
+        },
+        "dinihina ao": {
+            "anatin": 1
+        },
+        "ao anatin": {
+            "ny": 3,
+            "ity": 1
+        },
+        "anatin ny": {
+            "antrôpôlôjia": 1,
+            "farihy": 1,
+            "penina": 1
+        },
+        "antrôpôlôjia mandalina": {
+            "ny": 1
+        },
+        "izany tompon": {
+            "tsafidy": 1
+        },
+        "tompon tsafidy": {
+            "amin": 1
+        },
+        "tsafidy amin": {
+            "izay": 1
+        },
+        "izay lohahevitra": {
+            "anaovany": 1
+        },
+        "lohahevitra anaovany": {
+            "fanangonana": 1
+        },
+        "anaovany fanangonana": {
+            "fikarohana": 1
+        },
+        "fanangonana fikarohana": {
+            "sy": 1
+        },
+        "fikarohana sy": {
+            "fandalinana": 1
+        },
+        "sy fandalinana": {
+            "ny": 1,
+            "trangam": 1
+        },
+        "ho anay": {
+            "ny": 1
+        },
+        "anay ny": {
+            "fitrandrahana": 1
+        },
+        "ny fitrandrahana": {
+            "sy": 1
+        },
+        "fitrandrahana sy": {
+            "fandalinana": 1
+        },
+        "fandalinana trangam": {
+            "piarahamonina": 1
+        },
+        "trangam piarahamonina": {
+            "no": 1
+        },
+        "piarahamonina no": {
+            "nifotoranay": 1
+        },
+        "ary izany": {
+            "no": 1
+        },
+        "izany no": {
+            "isan": 1
+        },
+        "no isan": {
+            "ny": 2
+        },
+        "isan ny": {
+            "antony": 1,
+            "faritra": 1,
+            "nisarika": 1
+        },
+        "antony nanomezanay": {
+            "lohateny": 1
+        },
+        "nanomezanay lohateny": {
+            "ity": 1
+        },
+        "lohateny ity": {
+            "asa": 1
+        },
+        "ny mosavy": {
+            "eo": 2
+        },
+        "mosavy eo": {
+            "amin": 2
+        },
+        "ny ahitana": {
+            "azy": 1
+        },
+        "ahitana azy": {
+            "ao": 1
+        },
+        "azy ao": {
+            "amin": 1
+        },
+        "ao amin": {
+            "ny": 2,
+            "ity": 2
+        },
+        "ny kaominina": {
+            "mahabo": 2
+        },
+        "kaominina mahabo": {
+            "distrikan": 1,
+            "raha": 1
+        },
+        "mahabo distrikan": {
+            "ambohidratrimo": 1
+        },
+        "distrikan ambohidratrimo": {
+            "faritra": 1
+        },
+        "ambohidratrimo faritra": {
+            "analamanga": 1
+        },
+        "raha toa": {
+            "tantara": 1,
+            "mitomany": 1
+        },
+        "toa tantara": {
+            "noforonina": 1
+        },
+        "tantara noforonina": {
+            "sy": 1
+        },
+        "noforonina sy": {
+            "nofinofy": 1
+        },
+        "sy nofinofy": {
+            "no": 1
+        },
+        "nofinofy no": {
+            "fiheveran": 1
+        },
+        "no fiheveran": {
+            "ny": 1
+        },
+        "ny maro": {
+            "izany": 1
+        },
+        "maro izany": {
+            "mosavy": 1
+        },
+        "izany mosavy": {
+            "sy": 1
+        },
+        "mosavy sy": {
+            "mpamosavy": 1
+        },
+        "sy mpamosavy": {
+            "izany": 1
+        },
+        "mpamosavy izany": {
+            "dia": 1
+        },
+        "dia tena": {
+            "mbola": 1
+        },
+        "tena mbola": {
+            "misy": 1
+        },
+        "mbola misy": {
+            "sy": 1,
+            "ho": 1
+        },
+        "sy iainana": {
+            "izany": 1
+        },
+        "iainana izany": {
+            "ao": 1
+        },
+        "izany ao": {
+            "mahabo": 1
+        },
+        "amin izao": {
+            "fotoana": 1
+        },
+        "izao fotoana": {
+            "dia": 1
+        },
+        "fotoana dia": {
+            "azo": 1
+        },
+        "dia azo": {
+            "sokajiana": 1,
+            "atao": 1
+        },
+        "azo sokajiana": {
+            "ho": 1
+        },
+        "sokajiana ho": {
+            "isan": 1
+        },
+        "ho isan": {
+            "ny": 1
+        },
+        "faritra mena": {
+            "ny": 1
+        },
+        "mena ny": {
+            "kaominina": 1,
+            "masoandro": 1
+        },
+        "mahabo raha": {
+            "ny": 1
+        },
+        "lafiny mosavy": {
+            "no": 1
+        },
+        "mosavy no": {
+            "resahina": 1
+        },
+        "vitsy amin": {
+            "ireo": 1
+        },
+        "ireo mponina": {
+            "no": 1,
+            "iatrehana": 1
+        },
+        "mponina no": {
+            "mitondra": 1
+        },
+        "no mitondra": {
+            "faisana": 1
+        },
+        "mitondra faisana": {
+            "noho": 1
+        },
+        "faisana noho": {
+            "ny": 1
+        },
+        "ny asan": {
+            "ny": 1
+        },
+        "asan ny": {
+            "mpamosavy": 1
+        },
+        "ny mpamosavy": {
+            "tsy": 1,
+            "koa": 1,
+            "eo": 1
+        },
+        "mpamosavy tsy": {
+            "mandry": 1
+        },
+        "tsy mandry": {
+            "alina": 1
+        },
+        "mandry alina": {
+            "mitady": 1
+        },
+        "alina mitady": {
+            "izay": 1
+        },
+        "mitady izay": {
+            "fomba": 1
+        },
+        "izay fomba": {
+            "hahafahana": 2
+        },
+        "fomba hahafahana": {
+            "miatrika": 1,
+            "mampanjaka": 1
+        },
+        "hahafahana miatrika": {
+            "ny": 1
+        },
+        "miatrika ny": {
+            "mosavy": 1
+        },
+        "mpamosavy koa": {
+            "etsy": 1
+        },
+        "koa etsy": {
+            "ankilan": 1
+        },
+        "etsy ankilan": {
+            "izay": 1
+        },
+        "ankilan izay": {
+            "tsy": 1
+        },
+        "izay tsy": {
+            "mitsahatra": 1
+        },
+        "tsy mitsahatra": {
+            "mikaroka": 1
+        },
+        "mitsahatra mikaroka": {
+            "izay": 1
+        },
+        "mikaroka izay": {
+            "fomba": 1
+        },
+        "hahafahana mampanjaka": {
+            "izay": 1
+        },
+        "mampanjaka izay": {
+            "zavatra": 1
+        },
+        "izay zavatra": {
+            "ataony": 1
+        },
+        "zavatra ataony": {
+            "eo": 1
+        },
+        "ataony eo": {
+            "amin": 1
+        },
+        "izany zava": {
+            "misy": 1
+        },
+        "misy izany": {
+            "indrindra": 1
+        },
+        "izany indrindra": {
+            "no": 1
+        },
+        "indrindra no": {
+            "manitikitika": 1
+        },
+        "no manitikitika": {
+            "ny": 1
+        },
+        "manitikitika ny": {
+            "saina": 1
+        },
+        "ny saina": {
+            "hanadihady": 1
+        },
+        "saina hanadihady": {
+            "ka": 1
+        },
+        "hanadihady ka": {
+            "hanao": 1
+        },
+        "ka hanao": {
+            "hoe": 1
+        },
+        "hanao hoe": {
+            "ilaina": 1
+        },
+        "hoe ilaina": {
+            "ve": 1
+        },
+        "ilaina ve": {
+            "ny": 1
+        },
+        "ve ny": {
+            "fahafantarana": 1,
+            "mosavy": 1,
+            "ankizy": 1
+        },
+        "ny fahafantarana": {
+            "ny": 1
+        },
+        "fahafantarana ny": {
+            "momba": 1
+        },
+        "inona no": {
+            "mety": 2,
+            "vaovao": 1
+        },
+        "no mety": {
+            "ho": 2,
+            "manosika": 1
+        },
+        "ho zava": {
+            "kendren": 1
+        },
+        "zava kendren": {
+            "ny": 1
+        },
+        "kendren ny": {
+            "mpamosavy": 1
+        },
+        "mpamosavy eo": {
+            "anivon": 1
+        },
+        "inona marina": {
+            "no": 1
+        },
+        "marina no": {
+            "mety": 1
+        },
+        "mety manosika": {
+            "ny": 1
+        },
+        "manosika ny": {
+            "olona": 1
+        },
+        "olona sasany": {
+            "ao": 1
+        },
+        "sasany ao": {
+            "mahabo": 1
+        },
+        "ao mahabo": {
+            "hamosavy": 1,
+            "ny": 1
+        },
+        "ho antony": {
+            "mampandaitra": 1
+        },
+        "antony mampandaitra": {
+            "ny": 1
+        },
+        "mampandaitra ny": {
+            "mosavy": 1
+        },
+        "mety hitondra": {
+            "inona": 1
+        },
+        "hitondra inona": {
+            "ho": 1
+        },
+        "inona ho": {
+            "an": 1
+        },
+        "ho an": {
+            "ny": 19,
+            "dry": 1
+        },
+        "an ny": {
+            "fiarahamonina": 1,
+            "ankizy": 1,
+            "fety": 1,
+            "namany": 1,
+            "zazakely": 1,
+            "fiara": 1,
+            "andriamanitra": 1,
+            "trano": 1,
+            "fambolena": 1,
+            "efitrano": 2,
+            "lakozia": 1,
+            "asa": 1,
+            "zanany": 2,
+            "finday": 1,
+            "fandrahoana": 1,
+            "mpizahatany": 1,
+            "sakafo": 1
+        },
+        "fiarahamonina ao": {
+            "mahabo": 1
+        },
+        "mahabo ny": {
+            "mosavy": 1
+        },
+        "misy fombafomba": {
+            "ve": 1
+        },
+        "fombafomba ve": {
+            "fanaon": 1
+        },
+        "ve fanaon": {
+            "ireo": 1
+        },
+        "fanaon ireo": {
+            "mponina": 1
+        },
+        "mponina iatrehana": {
+            "ny": 1
+        },
+        "iatrehana ny": {
+            "mosavy": 1
+        },
+        "mety hanana": {
+            "ny": 1
+        },
+        "hanana ny": {
+            "dikany": 1
+        },
+        "ny dikany": {
+            "manokana": 1
+        },
+        "dikany manokana": {
+            "ve": 1
+        },
+        "manokana ve": {
+            "ny": 1
+        },
+        "manao ahoana": {
+            "ny": 1,
+            "ianao": 1
+        },
+        "ahoana ny": {
+            "mety": 1
+        },
+        "ny mety": {
+            "ho": 1
+        },
+        "ho fivoarany": {
+            "ankehitriny": 1
+        },
+        "ny fisian": {
+            "ireo": 1
+        },
+        "fisian ireo": {
+            "fanontaniana": 1
+        },
+        "ireo fanontaniana": {
+            "toa": 1
+        },
+        "fanontaniana toa": {
+            "mibosesika": 1
+        },
+        "toa mibosesika": {
+            "ireo": 1
+        },
+        "mibosesika ireo": {
+            "no": 1
+        },
+        "ny nisarika": {
+            "anay": 1
+        },
+        "nisarika anay": {
+            "hisafidy": 1
+        },
+        "faly mahafantatra": {
+            "anao": 1
+        },
+        "mahafantatra anao": {
+            "aho": 1
+        },
+        "misaotra betsaka": {
+            "amin": 1
+        },
+        "betsaka amin": {
+            "ny": 1
+        },
+        "aiza no": {
+            "misy": 1
+        },
+        "no misy": {
+            "ny": 1
+        },
+        "misy ny": {
+            "trano": 1
+        },
+        "ny trano": {
+            "fisakafoana": 1,
+            "aho": 1,
+            "vaovao": 1,
+            "tsy": 1
+        },
+        "trano fisakafoana": {
+            "akaiky": 1
+        },
+        "fisakafoana akaiky": {
+            "indrindra": 1
+        },
+        "tena tsara": {
+            "tarehy": 1
+        },
+        "tsara tarehy": {
+            "ny": 2,
+            "manidina": 1,
+            "any": 1,
+            "eo": 1
+        },
+        "tarehy ny": {
+            "tontolo": 1,
+            "mpanao": 1
+        },
+        "tontolo iainana": {
+            "eto": 1
+        },
+        "iainana eto": {
+            "madagasikara": 1
+        },
+        "any an": {
+            "tsena": 6,
+            "tsekoly": 2,
+            "danitra": 4,
+            "tanàna": 4,
+            "tsaha": 2,
+            "dakilasy": 1,
+            "dranomasina": 1,
+            "dalana": 1
+        },
+        "an tsena": {
+            "aho": 1,
+            "ny": 2
+        },
+        "tsena aho": {
+            "hividy": 1
+        },
+        "aho hividy": {
+            "anana": 1
+        },
+        "hividy anana": {
+            "sy": 1
+        },
+        "anana sy": {
+            "hena": 1
+        },
+        "matory ve": {
+            "ny": 1
+        },
+        "ny ankizy": {
+            "ao": 1,
+            "i": 1,
+            "any": 2,
+            "alohan": 1,
+            "rehefa": 1,
+            "hilalaovana": 2,
+            "isaky": 1,
+            "amin": 1
+        },
+        "ankizy ao": {
+            "an": 1
+        },
+        "ao an": {
+            "trano": 4,
+            "dakozia": 1
+        },
+        "mafana be": {
+            "ny": 1
+        },
+        "be ny": {
+            "andro": 1,
+            "mihinana": 1,
+            "lanitra": 1,
+            "zanak": 1,
+            "lalana": 2,
+            "trano": 1
+        },
+        "ny andro": {
+            "anio": 1,
+            "eto": 1,
+            "nahaterahana": 1
+        },
+        "andro anio": {
+            "nefa": 1
+        },
+        "anio nefa": {
+            "misy": 1
+        },
+        "nefa misy": {
+            "rivotra": 1
+        },
+        "misy rivotra": {
+            "kely": 1,
+            "mangatsiaka": 1,
+            "mahery": 1
+        },
+        "tiako be": {
+            "ny": 1
+        },
+        "ny mihinana": {
+            "vary": 1
+        },
+        "mihinana vary": {
+            "sy": 1
+        },
+        "vary sy": {
+            "laoka": 2
+        },
+        "afaka manampy": {
+            "ahy": 1
+        },
+        "manampy ahy": {
+            "ve": 1
+        },
+        "ahy ve": {
+            "ianao": 1
+        },
+        "ve ianao": {
+            "azafady": 1
+        },
+        "efa ho": {
+            "amin": 1
+        },
+        "ny firy": {
+            "izao": 1
+        },
+        "mandehana moramora": {
+            "fa": 1
+        },
+        "moramora fa": {
+            "malama": 1
+        },
+        "fa malama": {
+            "ny": 1
+        },
+        "malama ny": {
+            "lalana": 1
+        },
+        "ho avy": {
+            "ny": 1,
+            "any": 1
+        },
+        "avy ny": {
+            "orana": 3
+        },
+        "ny orana": {
+            "ka": 1
+        },
+        "orana ka": {
+            "ento": 1
+        },
+        "ka ento": {
+            "ny": 1
+        },
+        "ento ny": {
+            "elo": 1
+        },
+        "tsy haiko": {
+            "ny": 1
+        },
+        "haiko ny": {
+            "teny": 1
+        },
+        "malagasy nefa": {
+            "mianatra": 1
+        },
+        "nefa mianatra": {
+            "aho": 1
+        },
+        "mahafinaritra ny": {
+            "miresaka": 1,
+            "vorona": 1
+        },
+        "ny miresaka": {
+            "aminao": 1
+        },
+        "nandresy ny": {
+            "ekipantsika": 1
+        },
+        "ny ekipantsika": {
+            "tamin": 1
+        },
+        "ekipantsika tamin": {
+            "ny": 1
+        },
+        "tamin ny": {
+            "lalao": 1
+        },
+        "ny lalao": {
+            "omaly": 1
+        },
+        "mila miala": {
+            "sasatra": 2
+        },
+        "miala sasatra": {
+            "kely": 2
+        },
+        "sasatra kely": {
+            "aho": 1,
+            "ny": 1
+        },
+        "kely aho": {
+            "fa": 1
+        },
+        "aho fa": {
+            "reraka": 1,
+            "very": 1
+        },
+        "no vaovao": {
+            "any": 1
+        },
+        "vaovao any": {
+            "aminareo": 1,
+            "an": 1
+        },
+        "andao isika": {
+            "hiara": 1
+        },
+        "isika hiara": {
+            "hisakafo": 1
+        },
+        "hiara hisakafo": {
+            "amin": 1
+        },
+        "hisakafo amin": {
+            "ny": 1
+        },
+        "teny mamy": {
+            "no": 1
+        },
+        "mamy no": {
+            "mahavoaka": 1
+        },
+        "no mahavoaka": {
+            "ny": 1
+        },
+        "mahavoaka ny": {
+            "fady": 1
+        },
+        "ny firaisankina": {
+            "no": 1
+        },
+        "firaisankina no": {
+            "hery": 1
+        },
+        "aza manao": {
+            "ampitso": 1
+        },
+        "manao ampitso": {
+            "lava": 1
+        },
+        "mandeha ny": {
+            "fotoana": 1
+        },
+        "ny fotoana": {
+            "fa": 1
+        },
+        "fotoana fa": {
+            "tsy": 1
+        },
+        "tsy miandry": {
+            "antsika": 1
+        },
+        "tsiky kely": {
+            "dia": 1
+        },
+        "kely dia": {
+            "ampy": 1
+        },
+        "mandrapihaona indray": {
+            "ary": 1
+        },
+        "mianatra i": {
+            "lita": 1
+        },
+        "générer 10": {
+            "000": 1
+        },
+        "10 000": {
+            "phrases": 1
+        },
+        "000 phrases": {
+            "d": 1
+        },
+        "phrases d": {
+            "un": 1
+        },
+        "d un": {
+            "coup": 1,
+            "message": 1
+        },
+        "un coup": {
+            "dépasserait": 1
+        },
+        "coup dépasserait": {
+            "les": 1
+        },
+        "dépasserait les": {
+            "limites": 1
+        },
+        "les limites": {
+            "techniques": 1
+        },
+        "limites techniques": {
+            "de": 1
+        },
+        "techniques de": {
+            "longueur": 1
+        },
+        "de longueur": {
+            "de": 1
+        },
+        "longueur de": {
+            "réponse": 1
+        },
+        "de réponse": {
+            "d": 1
+        },
+        "réponse d": {
+            "un": 1
+        },
+        "un message": {
+            "unique": 1
+        },
+        "message unique": {
+            "cependant": 1
+        },
+        "unique cependant": {
+            "je": 1
+        },
+        "cependant je": {
+            "vais": 1
+        },
+        "je vais": {
+            "t": 1
+        },
+        "vais t": {
+            "en": 1
+        },
+        "t en": {
+            "générer": 1
+        },
+        "en générer": {
+            "une": 1
+        },
+        "générer une": {
+            "très": 1
+        },
+        "une très": {
+            "longue": 1
+        },
+        "très longue": {
+            "liste": 1
+        },
+        "longue liste": {
+            "pour": 1
+        },
+        "liste pour": {
+            "commencer": 1
+        },
+        "pour commencer": {
+            "on": 1
+        },
+        "commencer on": {
+            "pourra": 1
+        },
+        "on pourra": {
+            "continuer": 1
+        },
+        "pourra continuer": {
+            "par": 1
+        },
+        "continuer par": {
+            "blocs": 1
+        },
+        "par blocs": {
+            "si": 1
+        },
+        "blocs si": {
+            "tu": 1
+        },
+        "si tu": {
+            "le": 1
+        },
+        "tu le": {
+            "souhaites": 1
+        },
+        "voici une": {
+            "première": 1
+        },
+        "une première": {
+            "grande": 1
+        },
+        "première grande": {
+            "série": 1
+        },
+        "grande série": {
+            "de": 1
+        },
+        "série de": {
+            "phrases": 1
+        },
+        "de phrases": {
+            "en": 1
+        },
+        "phrases en": {
+            "malagasy": 1
+        },
+        "mandeha any": {
+            "an": 1
+        },
+        "tsena ny": {
+            "reniko": 2
+        },
+        "ny reniko": {
+            "hividy": 1,
+            "ho": 2
+        },
+        "reniko hividy": {
+            "anana": 1
+        },
+        "matory eo": {
+            "ambony": 1
+        },
+        "eo ambony": {
+            "fandriana": 1,
+            "latabatra": 1
+        },
+        "ambony fandriana": {
+            "ny": 1
+        },
+        "fandriana ny": {
+            "saka": 1
+        },
+        "ny saka": {
+            "kely": 1
+        },
+        "mianatra mafy": {
+            "ny": 1
+        },
+        "mafy ny": {
+            "mpianatra": 1,
+            "lakolosy": 1
+        },
+        "mpianatra mba": {
+            "ho": 1
+        },
+        "manga be": {
+            "ny": 1,
+            "voa": 1
+        },
+        "ny lanitra": {
+            "anio": 1
+        },
+        "lanitra anio": {
+            "satria": 1
+        },
+        "anio satria": {
+            "tsy": 1
+        },
+        "satria tsy": {
+            "misy": 1
+        },
+        "tsy misy": {
+            "rahona": 1,
+            "mipetraka": 1,
+            "mpampitohy": 1,
+            "toa": 1,
+            "intsony": 1
+        },
+        "mihira hira": {
+            "mahafinaritra": 1
+        },
+        "hira mahafinaritra": {
+            "ny": 1
+        },
+        "ny vorona": {
+            "eo": 1
+        },
+        "vorona eo": {
+            "am": 1
+        },
+        "eo am": {
+            "baravarankely": 1,
+            "bavahady": 1
+        },
+        "misotro rano": {
+            "madio": 1
+        },
+        "rano madio": {
+            "foana": 1,
+            "azo": 1
+        },
+        "madio foana": {
+            "aho": 1
+        },
+        "foana aho": {
+            "isaky": 1
+        },
+        "aho isaky": {
+            "ny": 1
+        },
+        "isaky ny": {
+            "maraina": 3,
+            "alahady": 1,
+            "hariva": 1,
+            "rantsan": 1,
+            "asabotsy": 1
+        },
+        "mividy mofo": {
+            "mamy": 1,
+            "dipaina": 1
+        },
+        "mofo mamy": {
+            "ho": 1
+        },
+        "mamy ho": {
+            "an": 1
+        },
+        "ankizy i": {
+            "dada": 1
+        },
+        "manasa lamba": {
+            "any": 1
+        },
+        "lamba any": {
+            "amoron": 1
+        },
+        "any amoron": {
+            "ilay": 1,
+            "dranomasina": 1
+        },
+        "amoron ilay": {
+            "renirano": 1
+        },
+        "ilay renirano": {
+            "izy": 1
+        },
+        "renirano izy": {
+            "ireo": 1
+        },
+        "tena mafana": {
+            "ny": 1
+        },
+        "mafana ny": {
+            "andro": 1,
+            "olona": 1
+        },
+        "andro eto": {
+            "antananarivo": 1
+        },
+        "eto antananarivo": {
+            "anio": 1
+        },
+        "kely ny": {
+            "olona": 1
+        },
+        "mandeha moramora": {
+            "ny": 1
+        },
+        "moramora ny": {
+            "sokatra": 1
+        },
+        "ny sokatra": {
+            "eo": 1
+        },
+        "sokatra eo": {
+            "amin": 1
+        },
+        "mamaky boky": {
+            "mahaliana": 1
+        },
+        "boky mahaliana": {
+            "ny": 1
+        },
+        "mahaliana ny": {
+            "rahalahiko": 1
+        },
+        "ny rahalahiko": {
+            "ao": 1
+        },
+        "rahalahiko ao": {
+            "an": 1
+        },
+        "misy voninkazo": {
+            "miloko": 1
+        },
+        "voninkazo miloko": {
+            "mena": 1
+        },
+        "miloko mena": {
+            "eo": 1
+        },
+        "mena eo": {
+            "an": 1
+        },
+        "eo an": {
+            "tokantrano": 4,
+            "joron": 1,
+            "tampon": 1
+        },
+        "mahandro vary": {
+            "sy": 1
+        },
+        "sy laoka": {
+            "matsiro": 1
+        },
+        "laoka matsiro": {
+            "ny": 1
+        },
+        "matsiro ny": {
+            "nenitoako": 1
+        },
+        "mijery sarimihetsika": {
+            "vaovao": 1
+        },
+        "sarimihetsika vaovao": {
+            "izahay": 1
+        },
+        "vaovao izahay": {
+            "amin": 1,
+            "hatao": 1
+        },
+        "izahay amin": {
+            "ny": 2
+        },
+        "manao fanatanjahan": {
+            "tena": 2
+        },
+        "fanatanjahan tena": {
+            "isan": 1,
+            "ny": 1
+        },
+        "tena isan": {
+            "kerinandro": 1
+        },
+        "isan kerinandro": {
+            "ny": 1
+        },
+        "kerinandro ny": {
+            "tanora": 1
+        },
+        "maneno mafy": {
+            "ny": 1
+        },
+        "ny lakolosy": {
+            "any": 1
+        },
+        "lakolosy any": {
+            "am": 1
+        },
+        "any am": {
+            "piangonana": 3,
+            "piasana": 1,
+            "pivarotana": 1,
+            "pianarana": 1
+        },
+        "mandeha fiara": {
+            "fitateram": 1
+        },
+        "fiara fitateram": {
+            "bahoaka": 1
+        },
+        "fitateram bahoaka": {
+            "izy": 1
+        },
+        "bahoaka izy": {
+            "ho": 1
+        },
+        "izy ho": {
+            "any": 1
+        },
+        "mamboly hazo": {
+            "fihinam": 1
+        },
+        "hazo fihinam": {
+            "boa": 1
+        },
+        "fihinam boa": {
+            "ny": 1
+        },
+        "boa ny": {
+            "tantsaha": 1
+        },
+        "ny tantsaha": {
+            "any": 2
+        },
+        "tantsaha any": {
+            "ambanivohitra": 1,
+            "an": 1
+        },
+        "rivotra mangatsiaka": {
+            "mitsoka": 1
+        },
+        "mangatsiaka mitsoka": {
+            "avy": 1
+        },
+        "mitsoka avy": {
+            "any": 1
+        },
+        "avy any": {
+            "atsinanana": 1,
+            "an": 1
+        },
+        "manampy ny": {
+            "namany": 1
+        },
+        "ny namany": {
+            "hatrany": 1,
+            "izy": 1
+        },
+        "namany hatrany": {
+            "ny": 1
+        },
+        "hatrany ny": {
+            "olona": 1,
+            "asa": 1
+        },
+        "olona tsara": {
+            "fanahy": 1
+        },
+        "mihazakazaka eny": {
+            "an": 1
+        },
+        "eny an": {
+            "kianja": 2,
+            "dalana": 1
+        },
+        "an kianja": {
+            "ny": 1
+        },
+        "kianja ny": {
+            "alika": 1
+        },
+        "ny alika": {
+            "fotsy": 1
+        },
+        "mampianatra ny": {
+            "zanany": 1
+        },
+        "ny zanany": {
+            "ho": 1,
+            "izy": 1
+        },
+        "zanany ho": {
+            "hendry": 1
+        },
+        "ho hendry": {
+            "ny": 1
+        },
+        "hendry ny": {
+            "ray": 1
+        },
+        "ny ray": {
+            "aman": 2
+        },
+        "ray aman": {
+            "dreny": 2
+        },
+        "mitady ny": {
+            "lakilen": 1
+        },
+        "ny lakilen": {
+            "ny": 1
+        },
+        "lakilen ny": {
+            "trano": 1
+        },
+        "trano aho": {
+            "fa": 1
+        },
+        "mahay mitendry": {
+            "gitara": 1
+        },
+        "mitendry gitara": {
+            "be": 1
+        },
+        "gitara be": {
+            "ny": 1
+        },
+        "zanak isivon": {
+            "ny": 1
+        },
+        "isivon ny": {
+            "mpiray": 1
+        },
+        "ny mpiray": {
+            "monina": 1
+        },
+        "misy trondro": {
+            "maro": 1,
+            "maina": 1
+        },
+        "trondro maro": {
+            "milomano": 1
+        },
+        "maro milomano": {
+            "ao": 1
+        },
+        "milomano ao": {
+            "anatin": 1
+        },
+        "mampiasa solosaina": {
+            "ny": 1
+        },
+        "solosaina ny": {
+            "mpianatra": 1
+        },
+        "mpianatra amin": {
+            "ny": 2
+        },
+        "ny masoandro": {
+            "rehefa": 1,
+            "izahay": 1
+        },
+        "masoandro rehefa": {
+            "mody": 1
+        },
+        "rehefa mody": {
+            "ny": 1
+        },
+        "mody ny": {
+            "hariva": 1
+        },
+        "mividy kiraro": {
+            "vaovao": 1,
+            "baolina": 1
+        },
+        "kiraro vaovao": {
+            "ho": 1
+        },
+        "vaovao ho": {
+            "an": 1
+        },
+        "ny fety": {
+            "izahay": 1
+        },
+        "misakafo miaraka": {
+            "ny": 1
+        },
+        "miaraka ny": {
+            "fianakaviana": 1
+        },
+        "ny fianakaviana": {
+            "isaky": 1,
+            "rehefa": 1
+        },
+        "fianakaviana isaky": {
+            "ny": 1
+        },
+        "mitondra elo": {
+            "ny": 1
+        },
+        "elo ny": {
+            "olona": 1
+        },
+        "olona satria": {
+            "avy": 1
+        },
+        "satria avy": {
+            "ny": 1
+        },
+        "misy vovoka": {
+            "be": 3
+        },
+        "vovoka be": {
+            "ny": 3
+        },
+        "ny lalana": {
+            "rehefa": 2,
+            "simba": 1
+        },
+        "lalana rehefa": {
+            "main": 2
+        },
+        "rehefa main": {
+            "tany": 2
+        },
+        "manao satroka": {
+            "izy": 1
+        },
+        "satroka izy": {
+            "mba": 1
+        },
+        "izy mba": {
+            "tsy": 1
+        },
+        "mba tsy": {
+            "ho": 3
+        },
+        "tsy ho": {
+            "azon": 1,
+            "very": 1,
+            "voan": 1,
+            "hita": 1
+        },
+        "ho azon": {
+            "ny": 1
+        },
+        "azon ny": {
+            "masoandro": 1
+        },
+        "mianatra teny": {
+            "vahiny": 1,
+            "frantsay": 1
+        },
+        "teny vahiny": {
+            "ny": 1
+        },
+        "vahiny ny": {
+            "ankizy": 1
+        },
+        "ankizy any": {
+            "an": 2
+        },
+        "misy hazo": {
+            "lehibe": 1,
+            "voanio": 1,
+            "manga": 1
+        },
+        "hazo lehibe": {
+            "eo": 1
+        },
+        "lehibe eo": {
+            "afovoan": 1
+        },
+        "eo afovoan": {
+            "ny": 2
+        },
+        "afovoan ny": {
+            "tanàna": 2
+        },
+        "misotro dite": {
+            "mafana": 1
+        },
+        "dite mafana": {
+            "izahay": 1
+        },
+        "mafana izahay": {
+            "rehefa": 1,
+            "ho": 1
+        },
+        "izahay rehefa": {
+            "maraina": 1
+        },
+        "rehefa maraina": {
+            "ny": 1
+        },
+        "maraina ny": {
+            "andro": 1,
+            "rahavaviko": 1
+        },
+        "manadio ny": {
+            "tokantrano": 1
+        },
+        "ny tokantrano": {
+            "ny": 1
+        },
+        "tokantrano ny": {
+            "ankizy": 1
+        },
+        "ankizy alohan": {
+            "ny": 1
+        },
+        "alohan ny": {
+            "hilalaovana": 1,
+            "hisakafo": 1,
+            "fidiran": 1
+        },
+        "misy lalitra": {
+            "manidina": 1
+        },
+        "lalitra manidina": {
+            "eo": 1
+        },
+        "manidina eo": {
+            "akaikin": 1,
+            "ambonin": 1
+        },
+        "eo akaikin": {
+            "ny": 1
+        },
+        "akaikin ny": {
+            "sakafo": 1
+        },
+        "mampiasa finday": {
+            "ny": 1
+        },
+        "finday ny": {
+            "olona": 1,
+            "rahalahiko": 1
+        },
+        "olona hifandraisana": {
+            "amin": 1
+        },
+        "hifandraisana amin": {
+            "ny": 1
+        },
+        "mihaino onjam": {
+            "peo": 1
+        },
+        "onjam peo": {
+            "ny": 1
+        },
+        "peo ny": {
+            "raibeko": 1
+        },
+        "ny raibeko": {
+            "isaky": 1
+        },
+        "raibeko isaky": {
+            "ny": 1
+        },
+        "misy kintana": {
+            "maro": 1
+        },
+        "kintana maro": {
+            "mamirapiratra": 1
+        },
+        "maro mamirapiratra": {
+            "any": 1
+        },
+        "mamirapiratra any": {
+            "an": 1
+        },
+        "an danitra": {
+            "amin": 1,
+            "anio": 1
+        },
+        "danitra amin": {
+            "ny": 1
+        },
+        "manamboatra ny": {
+            "fiarany": 1,
+            "lalana": 1
+        },
+        "ny fiarany": {
+            "ny": 1
+        },
+        "fiarany ny": {
+            "mpanamboatra": 1
+        },
+        "ny mpanamboatra": {
+            "mekanika": 1
+        },
+        "mividy gazety": {
+            "vao": 1
+        },
+        "gazety vao": {
+            "nivoaka": 1
+        },
+        "vao nivoaka": {
+            "ny": 1
+        },
+        "nivoaka ny": {
+            "rahalahiko": 1
+        },
+        "misy fety": {
+            "lehibe": 1
+        },
+        "fety lehibe": {
+            "hatao": 1
+        },
+        "lehibe hatao": {
+            "any": 1
+        },
+        "hatao any": {
+            "an": 1
+        },
+        "an tanàna": {
+            "rahampitso": 1
+        },
+        "manome fanomezana": {
+            "ho": 1
+        },
+        "fanomezana ho": {
+            "an": 1
+        },
+        "namany izy": {
+            "amin": 1
+        },
+        "izy amin": {
+            "ny": 1
+        },
+        "ny fitsingerenan": {
+            "ny": 1
+        },
+        "fitsingerenan ny": {
+            "andro": 1
+        },
+        "manao akanjo": {
+            "mafana": 1,
+            "fotsy": 1,
+            "fety": 1
+        },
+        "akanjo mafana": {
+            "ny": 1
+        },
+        "olona rehefa": {
+            "ririnina": 1
+        },
+        "misy lalana": {
+            "tery": 1,
+            "vovoka": 1,
+            "rarivato": 1,
+            "mitsidika": 1,
+            "malama": 1
+        },
+        "lalana tery": {
+            "mianika": 1
+        },
+        "tery mianika": {
+            "ny": 1
+        },
+        "mianika ny": {
+            "havoana": 1
+        },
+        "mijinja vary": {
+            "ny": 1
+        },
+        "vary ny": {
+            "tantsaha": 1,
+            "reniko": 1
+        },
+        "mihazakazaka ny": {
+            "mpianatra": 1
+        },
+        "mpianatra satria": {
+            "efa": 1
+        },
+        "satria efa": {
+            "tara": 1
+        },
+        "misy rano": {
+            "mikoriana": 2,
+            "mangatsiaka": 1,
+            "maloto": 1,
+            "mafana": 1,
+            "madio": 1
+        },
+        "rano mikoriana": {
+            "avy": 1,
+            "mafy": 1
+        },
+        "mikoriana avy": {
+            "amin": 1
+        },
+        "avy amin": {
+            "ny": 7
+        },
+        "manao sary": {
+            "tsara": 1
+        },
+        "sary tsara": {
+            "tarehy": 1
+        },
+        "ny mpanao": {
+            "sary": 1,
+            "trano": 1,
+            "politika": 1,
+            "gazety": 1,
+            "azy": 1,
+            "akanjo": 1,
+            "fihetsiketsehana": 1
+        },
+        "mividy legioma": {
+            "vaovao": 1
+        },
+        "legioma vaovao": {
+            "any": 1
+        },
+        "misy hena": {
+            "omby": 1
+        },
+        "hena omby": {
+            "amidy": 1
+        },
+        "omby amidy": {
+            "eo": 1
+        },
+        "amidy eo": {
+            "an": 1
+        },
+        "an joron": {
+            "dalana": 1
+        },
+        "manasa tanana": {
+            "amin": 1
+        },
+        "tanana amin": {
+            "ny": 1
+        },
+        "ny savony": {
+            "izahay": 1
+        },
+        "savony izahay": {
+            "alohan": 1
+        },
+        "izahay alohan": {
+            "ny": 1
+        },
+        "mihaino mozika": {
+            "malagasy": 1
+        },
+        "mozika malagasy": {
+            "foana": 1
+        },
+        "malagasy foana": {
+            "ny": 1
+        },
+        "foana ny": {
+            "tanora": 1,
+            "ankizy": 1
+        },
+        "misy alika": {
+            "mitety": 1
+        },
+        "alika mitety": {
+            "tanàna": 1
+        },
+        "mitety tanàna": {
+            "mitady": 1
+        },
+        "tanàna mitady": {
+            "sakafo": 1
+        },
+        "manao kabary": {
+            "tsara": 1
+        },
+        "kabary tsara": {
+            "ny": 1
+        },
+        "tsara ny": {
+            "mpitandrina": 1,
+            "malagasy": 1,
+            "mpianatra": 1,
+            "mitrandraka": 1
+        },
+        "ny mpitandrina": {
+            "any": 1
+        },
+        "mpitandrina any": {
+            "am": 1
+        },
+        "misy lolo": {
+            "tsara": 1
+        },
+        "lolo tsara": {
+            "tarehy": 1
+        },
+        "tarehy manidina": {
+            "eo": 1
+        },
+        "eo ambonin": {
+            "ny": 3
+        },
+        "ambonin ny": {
+            "voninkazo": 1,
+            "tafo": 1,
+            "hazo": 1
+        },
+        "mividy fanafody": {
+            "any": 1
+        },
+        "fanafody any": {
+            "amin": 1
+        },
+        "ny farmasia": {
+            "izy": 1
+        },
+        "misy vato": {
+            "be": 1,
+            "kely": 2,
+            "sarobidy": 1
+        },
+        "vato be": {
+            "eo": 1
+        },
+        "be eo": {
+            "amoron": 1
+        },
+        "eo amoron": {
+            "ny": 1,
+            "dalana": 2
+        },
+        "amoron ny": {
+            "ranomasina": 1
+        },
+        "mihomehy foana": {
+            "ny": 1
+        },
+        "ankizy rehefa": {
+            "milalao": 1
+        },
+        "manao tatitra": {
+            "momba": 1,
+            "ny": 2
+        },
+        "tatitra momba": {
+            "ny": 1
+        },
+        "asa ny": {
+            "mpiasa": 1
+        },
+        "misy fiara": {
+            "maro": 1
+        },
+        "fiara maro": {
+            "miteraka": 1
+        },
+        "maro miteraka": {
+            "fitohanana": 1
+        },
+        "miteraka fitohanana": {
+            "eny": 1
+        },
+        "fitohanana eny": {
+            "an": 1
+        },
+        "mividy voankazo": {
+            "isan": 1
+        },
+        "voankazo isan": {
+            "karazany": 1
+        },
+        "karazany izahay": {
+            "hohanina": 1
+        },
+        "misy ondry": {
+            "miraoka": 1
+        },
+        "ondry miraoka": {
+            "ahitra": 1
+        },
+        "miraoka ahitra": {
+            "any": 1
+        },
+        "ahitra any": {
+            "an": 1
+        },
+        "manao asa": {
+            "tanana": 1
+        },
+        "asa tanana": {
+            "ny": 1
+        },
+        "tanana ny": {
+            "vehivavy": 1
+        },
+        "ny vehivavy": {
+            "any": 1,
+            "manan": 1,
+            "ho": 1
+        },
+        "vehivavy any": {
+            "ambanivohitra": 1
+        },
+        "misy feo": {
+            "mahafinaritra": 1
+        },
+        "feo mahafinaritra": {
+            "mivoaka": 1
+        },
+        "mahafinaritra mivoaka": {
+            "avy": 1
+        },
+        "mivoaka avy": {
+            "amin": 1,
+            "ao": 1
+        },
+        "mividy bisikileta": {
+            "vaovao": 1,
+            "ny": 1
+        },
+        "bisikileta vaovao": {
+            "ny": 1
+        },
+        "vaovao ny": {
+            "rahalahiko": 1,
+            "reniko": 2,
+            "ray": 1
+        },
+        "misy mpizahatany": {
+            "maro": 1
+        },
+        "mpizahatany maro": {
+            "tonga": 1
+        },
+        "maro tonga": {
+            "mitsidika": 1,
+            "nijery": 1
+        },
+        "tonga mitsidika": {
+            "an": 1
+        },
+        "mitsidika an": {
+            "i": 1
+        },
+        "an i": {
+            "madagasikara": 1,
+            "jehovah": 1
+        },
+        "manao vakansy": {
+            "any": 1
+        },
+        "vakansy any": {
+            "toamasina": 1
+        },
+        "any toamasina": {
+            "izahay": 1
+        },
+        "toamasina izahay": {
+            "amin": 1
+        },
+        "ny volana": {
+            "aogositra": 1
+        },
+        "misy tantara": {
+            "mampihetsi": 1,
+            "ratsy": 1
+        },
+        "tantara mampihetsi": {
+            "po": 1
+        },
+        "mampihetsi po": {
+            "ao": 1
+        },
+        "po ao": {
+            "anatin": 1
+        },
+        "anatin ity": {
+            "boky": 1
+        },
+        "ity boky": {
+            "ity": 1
+        },
+        "mividy solon": {
+            "tsakafo": 1
+        },
+        "solon tsakafo": {
+            "ho": 1
+        },
+        "tsakafo ho": {
+            "an": 1
+        },
+        "ny zazakely": {
+            "ny": 1,
+            "mba": 1
+        },
+        "zazakely ny": {
+            "reniny": 1
+        },
+        "misy tantsaha": {
+            "miasa": 1,
+            "miompy": 1
+        },
+        "tantsaha miasa": {
+            "tany": 1
+        },
+        "miasa tany": {
+            "hatramin": 1
+        },
+        "tany hatramin": {
+            "ny": 1
+        },
+        "hatramin ny": {
+            "maraina": 1,
+            "hariva": 1
+        },
+        "ny maraina": {
+            "ka": 1,
+            "ny": 1
+        },
+        "maraina ka": {
+            "hatramin": 1
+        },
+        "ka hatramin": {
+            "ny": 1
+        },
+        "manao lalao": {
+            "baolina": 1,
+            "an": 1,
+            "afobe": 1
+        },
+        "lalao baolina": {
+            "kitra": 1
+        },
+        "baolina kitra": {
+            "ny": 1
+        },
+        "kitra ny": {
+            "ankizilahy": 1
+        },
+        "ny ankizilahy": {
+            "eny": 1
+        },
+        "ankizilahy eny": {
+            "an": 1
+        },
+        "misy trano": {
+            "vato": 1,
+            "hazo": 1,
+            "fandraisam": 1,
+            "biriky": 1
+        },
+        "trano vato": {
+            "miorina": 1
+        },
+        "vato miorina": {
+            "eo": 1
+        },
+        "miorina eo": {
+            "an": 1,
+            "amoron": 1
+        },
+        "an tampon": {
+            "tanàna": 1
+        },
+        "mividy sira": {
+            "sy": 1
+        },
+        "sira sy": {
+            "siramamy": 1
+        },
+        "sy siramamy": {
+            "any": 1
+        },
+        "siramamy any": {
+            "am": 1
+        },
+        "am pivarotana": {
+            "izy": 1
+        },
+        "misy voromailala": {
+            "mipetraka": 1,
+            "mitady": 1
+        },
+        "voromailala mipetraka": {
+            "eo": 1
+        },
+        "mipetraka eo": {
+            "ambonin": 1
+        },
+        "manao fanadiovana": {
+            "ny": 3
+        },
+        "fanadiovana ny": {
+            "tanàna": 2,
+            "lakandrano": 1
+        },
+        "ny tanàna": {
+            "ny": 2,
+            "lavitra": 1,
+            "roa": 1
+        },
+        "tanàna ny": {
+            "mponina": 2
+        },
+        "lalana vovoka": {
+            "mankany": 1
+        },
+        "vovoka mankany": {
+            "amin": 1
+        },
+        "mankany amin": {
+            "ny": 1
+        },
+        "mividy penina": {
+            "sy": 1
+        },
+        "penina sy": {
+            "kahie": 1
+        },
+        "sy kahie": {
+            "ny": 1
+        },
+        "kahie ny": {
+            "mpianatra": 1
+        },
+        "mpianatra alohan": {
+            "ny": 1
+        },
+        "ny fidiran": {
+            "ny": 1
+        },
+        "fidiran ny": {
+            "mpianatra": 1
+        },
+        "misy oniversite": {
+            "lehibe": 1
+        },
+        "oniversite lehibe": {
+            "miorina": 1
+        },
+        "lehibe miorina": {
+            "eto": 1,
+            "any": 1
+        },
+        "miorina eto": {
+            "an": 1
+        },
+        "eto an": {
+            "drenivohitra": 1
+        },
+        "manao famelabelarana": {
+            "ny": 1
+        },
+        "famelabelarana ny": {
+            "mpianatra": 1,
+            "tamberinteny": 1
+        },
+        "mpianatra any": {
+            "an": 1,
+            "amin": 1
+        },
+        "rano mangatsiaka": {
+            "ao": 1
+        },
+        "mangatsiaka ao": {
+            "anaty": 1
+        },
+        "anaty vata": {
+            "fampangatsiahana": 1
+        },
+        "mividy lasantsy": {
+            "ho": 1
+        },
+        "lasantsy ho": {
+            "an": 1
+        },
+        "ny fiara": {
+            "ny": 1
+        },
+        "fiara ny": {
+            "mpamily": 1
+        },
+        "misy gidro": {
+            "maro": 1,
+            "mitsambikina": 1
+        },
+        "gidro maro": {
+            "mipetraka": 1
+        },
+        "maro mipetraka": {
+            "any": 1
+        },
+        "mipetraka any": {
+            "anaty": 1
+        },
+        "any anaty": {
+            "ala": 2,
+            "lakandrano": 1,
+            "kiraro": 1
+        },
+        "manao fety": {
+            "miaraka": 1
+        },
+        "fety miaraka": {
+            "amin": 1
+        },
+        "miaraka amin": {
+            "ny": 1
+        },
+        "ny namana": {
+            "ny": 1
+        },
+        "namana ny": {
+            "tanora": 1
+        },
+        "misy sambo": {
+            "lehibe": 1
+        },
+        "sambo lehibe": {
+            "miantsona": 1
+        },
+        "lehibe miantsona": {
+            "any": 1
+        },
+        "miantsona any": {
+            "amin": 1
+        },
+        "ny seranan": {
+            "tsambo": 1
+        },
+        "mividy harona": {
+            "vaovao": 1
+        },
+        "harona vaovao": {
+            "ny": 1
+        },
+        "reniko ho": {
+            "entina": 1,
+            "an": 1
+        },
+        "ho entina": {
+            "any": 1
+        },
+        "entina any": {
+            "an": 1
+        },
+        "misy volana": {
+            "fenomanana": 1
+        },
+        "volana fenomanana": {
+            "any": 1
+        },
+        "fenomanana any": {
+            "an": 1
+        },
+        "danitra anio": {
+            "alina": 1
+        },
+        "manao sorona": {
+            "ny": 1
+        },
+        "sorona ny": {
+            "mpivavaka": 1
+        },
+        "ny mpivavaka": {
+            "ho": 1
+        },
+        "mpivavaka ho": {
+            "an": 1
+        },
+        "misy vitsika": {
+            "milahatra": 1
+        },
+        "vitsika milahatra": {
+            "hitondra": 1
+        },
+        "milahatra hitondra": {
+            "sakafo": 1
+        },
+        "mividy atody": {
+            "vaovao": 1
+        },
+        "atody vaovao": {
+            "izahay": 1
+        },
+        "izahay hatao": {
+            "ody": 1,
+            "laoka": 1
+        },
+        "hatao ody": {
+            "ambavafo": 1
+        },
+        "misy lamba": {
+            "landy": 2
+        },
+        "lamba landy": {
+            "tsara": 1,
+            "ampiasaina": 1
+        },
+        "landy tsara": {
+            "amidy": 1
+        },
+        "tsara amidy": {
+            "any": 1
+        },
+        "amidy any": {
+            "an": 2
+        },
+        "manao fanazaran": {
+            "tena": 1
+        },
+        "fanazaran tena": {
+            "ny": 1
+        },
+        "tena ny": {
+            "mpilalao": 1,
+            "tanora": 1
+        },
+        "ny mpilalao": {
+            "baolina": 1
+        },
+        "misy fofona": {
+            "matsiro": 1
+        },
+        "fofona matsiro": {
+            "mivoaka": 1
+        },
+        "matsiro mivoaka": {
+            "avy": 1
+        },
+        "avy ao": {
+            "an": 1
+        },
+        "mividy jiro": {
+            "ho": 1,
+            "mandeha": 1
+        },
+        "jiro ho": {
+            "an": 1
+        },
+        "trano vaovao": {
+            "izahay": 1
+        },
+        "misy tany": {
+            "lonaka": 1
+        },
+        "tany lonaka": {
+            "tsara": 1
+        },
+        "lonaka tsara": {
+            "ho": 1
+        },
+        "tsara ho": {
+            "an": 2
+        },
+        "manao fikarohana": {
+            "ny": 1,
+            "momba": 1
+        },
+        "fikarohana ny": {
+            "mpahay": 1
+        },
+        "ny mpahay": {
+            "siansa": 1
+        },
+        "misy ala": {
+            "mikitroka": 1,
+            "kininina": 1
+        },
+        "ala mikitroka": {
+            "any": 1
+        },
+        "mikitroka any": {
+            "amin": 1
+        },
+        "mividy seza": {
+            "hazo": 1
+        },
+        "seza hazo": {
+            "ho": 1
+        },
+        "hazo ho": {
+            "an": 1
+        },
+        "ny efitrano": {
+            "fandraisam": 1,
+            "fandroana": 1
+        },
+        "efitrano fandraisam": {
+            "bahiny": 1
+        },
+        "misy ankizy": {
+            "milalao": 1
+        },
+        "ankizy milalao": {
+            "saribakoly": 1
+        },
+        "milalao saribakoly": {
+            "eo": 1
+        },
+        "saribakoly eo": {
+            "an": 1
+        },
+        "manao firavaka": {
+            "volamena": 1
+        },
+        "firavaka volamena": {
+            "ny": 1
+        },
+        "volamena ny": {
+            "vehivavy": 1
+        },
+        "vehivavy manan": {
+            "karena": 1
+        },
+        "misy loharano": {
+            "mipoitra": 1
+        },
+        "loharano mipoitra": {
+            "avy": 1
+        },
+        "mipoitra avy": {
+            "amin": 1
+        },
+        "mividy ronono": {
+            "vaovao": 1
+        },
+        "ronono vaovao": {
+            "isaky": 1
+        },
+        "vaovao isaky": {
+            "ny": 1
+        },
+        "misy mozikantsika": {
+            "manokana": 1
+        },
+        "mozikantsika manokana": {
+            "isam": 1
+        },
+        "manokana isam": {
+            "paritra": 1
+        },
+        "akanjo fotsy": {
+            "ny": 1
+        },
+        "fotsy ny": {
+            "dokotera": 1
+        },
+        "ny dokotera": {
+            "any": 1
+        },
+        "dokotera any": {
+            "amin": 1
+        },
+        "lalana rarivato": {
+            "eo": 1
+        },
+        "rarivato eo": {
+            "afovoan": 1
+        },
+        "mividy fitaovam": {
+            "panorenana": 1
+        },
+        "fitaovam panorenana": {
+            "ny": 1
+        },
+        "panorenana ny": {
+            "mpanao": 1
+        },
+        "misy olona": {
+            "maro": 2,
+            "mivarotra": 2,
+            "mitandrina": 1,
+            "mianatra": 1
+        },
+        "olona maro": {
+            "milahatra": 1,
+            "tonga": 1
+        },
+        "maro milahatra": {
+            "haka": 1
+        },
+        "milahatra haka": {
+            "rano": 1
+        },
+        "haka rano": {
+            "amin": 1
+        },
+        "rano amin": {
+            "ny": 1
+        },
+        "manao fihaonambe": {
+            "ny": 1
+        },
+        "fihaonambe ny": {
+            "mpanao": 1
+        },
+        "misy masoandro": {
+            "miposaka": 1,
+            "mody": 1
+        },
+        "masoandro miposaka": {
+            "any": 1
+        },
+        "miposaka any": {
+            "antsinanana": 1
+        },
+        "mividy tantely": {
+            "voajanahary": 1
+        },
+        "tantely voajanahary": {
+            "izahay": 1
+        },
+        "voajanahary izahay": {
+            "ho": 1
+        },
+        "izahay ho": {
+            "fanafody": 1,
+            "an": 1
+        },
+        "rivotra mahery": {
+            "mitsoka": 1
+        },
+        "mahery mitsoka": {
+            "ka": 1
+        },
+        "mitsoka ka": {
+            "mihozongozona": 1
+        },
+        "ka mihozongozona": {
+            "ny": 1
+        },
+        "mihozongozona ny": {
+            "hazo": 1
+        },
+        "manao fitafiana": {
+            "nentim": 1
+        },
+        "fitafiana nentim": {
+            "paharazana": 1
+        },
+        "paharazana ny": {
+            "olona": 1
+        },
+        "misy lakana": {
+            "miampita": 1
+        },
+        "lakana miampita": {
+            "ny": 1
+        },
+        "miampita ny": {
+            "renirano": 1
+        },
+        "mividy sarintany": {
+            "izahay": 1
+        },
+        "sarintany izahay": {
+            "mba": 1
+        },
+        "izahay mba": {
+            "tsy": 1
+        },
+        "ho very": {
+            "lalana": 1
+        },
+        "trondro maina": {
+            "amidy": 1
+        },
+        "maina amidy": {
+            "any": 1
+        },
+        "tatitra ny": {
+            "mpanao": 1,
+            "mpitantana": 1
+        },
+        "mpanao gazety": {
+            "momba": 1
+        },
+        "gazety momba": {
+            "ny": 1
+        },
+        "misy vorona": {
+            "maro": 1,
+            "mivady": 2,
+            "miloko": 1
+        },
+        "vorona maro": {
+            "manao": 1
+        },
+        "maro manao": {
+            "akany": 1
+        },
+        "manao akany": {
+            "eo": 1
+        },
+        "akany eo": {
+            "ambonin": 1
+        },
+        "mividy lay": {
+            "hiarovana": 2
+        },
+        "lay hiarovana": {
+            "amin": 2
+        },
+        "hiarovana amin": {
+            "ny": 2
+        },
+        "ny moka": {
+            "izahay": 1,
+            "ny": 1
+        },
+        "misy saha": {
+            "malalaka": 1
+        },
+        "saha malalaka": {
+            "fambolena": 1
+        },
+        "malalaka fambolena": {
+            "katsaka": 1
+        },
+        "manao dihy": {
+            "mirindra": 1
+        },
+        "dihy mirindra": {
+            "ny": 1
+        },
+        "mirindra ny": {
+            "mpandihy": 1
+        },
+        "vato kely": {
+            "maro": 1,
+            "miditra": 1
+        },
+        "kely maro": {
+            "eny": 1
+        },
+        "maro eny": {
+            "amoron": 1
+        },
+        "eny amoron": {
+            "dalana": 1
+        },
+        "mividy savony": {
+            "sy": 1
+        },
+        "savony sy": {
+            "toothpaste": 1
+        },
+        "sy toothpaste": {
+            "ny": 1
+        },
+        "toothpaste ny": {
+            "rahalahiko": 1
+        },
+        "olona mivarotra": {
+            "voninkazo": 1,
+            "hena": 1
+        },
+        "mivarotra voninkazo": {
+            "eo": 1
+        },
+        "voninkazo eo": {
+            "am": 1
+        },
+        "manao fanadinana": {
+            "ny": 1
+        },
+        "fanadinana ny": {
+            "mpianatra": 1
+        },
+        "ny faran": {
+            "ny": 1
+        },
+        "faran ny": {
+            "taona": 1
+        },
+        "trano hazo": {
+            "miorina": 1
+        },
+        "hazo miorina": {
+            "any": 1
+        },
+        "miorina any": {
+            "ambanivohitra": 1,
+            "amin": 1
+        },
+        "mividy menaka": {
+            "fandrahoana": 1
+        },
+        "menaka fandrahoana": {
+            "ny": 1
+        },
+        "fandrahoana ny": {
+            "reniko": 2
+        },
+        "tantara ratsy": {
+            "miely": 1
+        },
+        "ratsy miely": {
+            "any": 1
+        },
+        "miely any": {
+            "an": 1
+        },
+        "manao vakisiny": {
+            "ny": 1
+        },
+        "vakisiny ny": {
+            "zazakely": 1
+        },
+        "zazakely mba": {
+            "tsy": 1
+        },
+        "ho voan": {
+            "ny": 1
+        },
+        "voan ny": {
+            "aretina": 1
+        },
+        "misy tavoahangy": {
+            "rano": 1
+        },
+        "tavoahangy rano": {
+            "eo": 1
+        },
+        "rano eo": {
+            "ambony": 1
+        },
+        "jiro mandeha": {
+            "amin": 1
+        },
+        "mandeha amin": {
+            "ny": 1
+        },
+        "misy mpiasa": {
+            "manamboatra": 1
+        },
+        "mpiasa manamboatra": {
+            "ny": 1
+        },
+        "manao sonia": {
+            "ny": 1
+        },
+        "sonia ny": {
+            "fifanarahana": 1
+        },
+        "ny fifanarahana": {
+            "ny": 1
+        },
+        "fifanarahana ny": {
+            "tale": 1
+        },
+        "misy vary": {
+            "gasy": 1
+        },
+        "vary gasy": {
+            "matsiro": 1
+        },
+        "gasy matsiro": {
+            "amidy": 1
+        },
+        "matsiro amidy": {
+            "ao": 1
+        },
+        "amidy ao": {
+            "amin": 1
+        },
+        "ity magazay": {
+            "ity": 1
+        },
+        "mividy tany": {
+            "ny": 1
+        },
+        "olona hananganana": {
+            "trano": 1
+        },
+        "misy finday": {
+            "rava": 1
+        },
+        "finday rava": {
+            "amboarina": 1
+        },
+        "rava amboarina": {
+            "any": 1
+        },
+        "amboarina any": {
+            "amin": 1
+        },
+        "manao famelabelaran": {
+            "kevitra": 1
+        },
+        "vorona mivady": {
+            "manidina": 1,
+            "manao": 1
+        },
+        "mivady manidina": {
+            "any": 1
+        },
+        "manidina any": {
+            "an": 1
+        },
+        "mividy entana": {
+            "isan": 1
+        },
+        "entana isan": {
+            "karazany": 1
+        },
+        "karazany ny": {
+            "mpividy": 1
+        },
+        "misy radio": {
+            "taloha": 1
+        },
+        "radio taloha": {
+            "mipetraka": 1
+        },
+        "taloha mipetraka": {
+            "ao": 1
+        },
+        "mipetraka ao": {
+            "an": 1
+        },
+        "manao fivoriana": {
+            "ny": 1
+        },
+        "fivoriana ny": {
+            "komity": 1
+        },
+        "ny komity": {
+            "any": 1
+        },
+        "komity any": {
+            "an": 1
+        },
+        "misy tetezana": {
+            "lehibe": 1
+        },
+        "tetezana lehibe": {
+            "mampitohy": 1
+        },
+        "lehibe mampitohy": {
+            "ny": 1
+        },
+        "mampitohy ny": {
+            "tanàna": 1
+        },
+        "mividy voanjo": {
+            "voatono": 1
+        },
+        "voanjo voatono": {
+            "izahay": 1
+        },
+        "voatono izahay": {
+            "hohanina": 1
+        },
+        "misy mponina": {
+            "maro": 1
+        },
+        "mponina maro": {
+            "miara": 1
+        },
+        "maro miara": {
+            "miaina": 1
+        },
+        "miara miaina": {
+            "ao": 1
+        },
+        "miaina ao": {
+            "amin": 1
+        },
+        "ity fokontany": {
+            "ity": 1
+        },
+        "manao fanadihadiana": {
+            "ny": 1
+        },
+        "fanadihadiana ny": {
+            "polisy": 1
+        },
+        "ny polisy": {
+            "momba": 1
+        },
+        "polisy momba": {
+            "ilay": 1
+        },
+        "momba ilay": {
+            "halatra": 1
+        },
+        "misy ranomandry": {
+            "any": 1
+        },
+        "ranomandry any": {
+            "amin": 1
+        },
+        "ny tendrony": {
+            "avaratry": 1
+        },
+        "tendrony avaratry": {
+            "ny": 1
+        },
+        "avaratry ny": {
+            "tany": 1
+        },
+        "mividy kofehy": {
+            "sy": 1
+        },
+        "kofehy sy": {
+            "fanjaitra": 1
+        },
+        "sy fanjaitra": {
+            "ny": 1
+        },
+        "fanjaitra ny": {
+            "mpanao": 1
+        },
+        "misy loza": {
+            "niseho": 1
+        },
+        "loza niseho": {
+            "teny": 1
+        },
+        "niseho teny": {
+            "an": 1
+        },
+        "teny an": {
+            "dalana": 1
+        },
+        "an dalana": {
+            "omaly": 1
+        },
+        "dalana omaly": {
+            "hariva": 1
+        },
+        "ny mpitantana": {
+            "ny": 1
+        },
+        "mpitantana ny": {
+            "vola": 1
+        },
+        "tantsaha miompy": {
+            "akoho": 1
+        },
+        "miompy akoho": {
+            "sy": 1
+        },
+        "akoho sy": {
+            "gana": 1
+        },
+        "mividy vilany": {
+            "vaovao": 1
+        },
+        "vilany vaovao": {
+            "ny": 1
+        },
+        "rano maloto": {
+            "mikoriana": 1
+        },
+        "maloto mikoriana": {
+            "any": 1
+        },
+        "mikoriana any": {
+            "anaty": 1
+        },
+        "manao fianaran": {
+            "draharaha": 1
+        },
+        "fianaran draharaha": {
+            "ny": 1
+        },
+        "draharaha ny": {
+            "mpianatra": 1
+        },
+        "vorona miloko": {
+            "maitso": 1
+        },
+        "miloko maitso": {
+            "sy": 1
+        },
+        "maitso sy": {
+            "mavo": 1
+        },
+        "mividy simenitra": {
+            "ho": 1
+        },
+        "simenitra ho": {
+            "an": 1
+        },
+        "asa fanorenana": {
+            "ny": 1
+        },
+        "fanorenana ny": {
+            "mpiasa": 1
+        },
+        "misy hazandrano": {
+            "maro": 1
+        },
+        "hazandrano maro": {
+            "karazana": 1
+        },
+        "maro karazana": {
+            "any": 1
+        },
+        "karazana any": {
+            "an": 1
+        },
+        "lalao an": {
+            "tsaina": 1
+        },
+        "an tsaina": {
+            "ny": 1
+        },
+        "tsaina ny": {
+            "ankizy": 1
+        },
+        "misy tora": {
+            "pasika": 1
+        },
+        "tora pasika": {
+            "tsara": 1
+        },
+        "pasika tsara": {
+            "tarehy": 1
+        },
+        "tarehy any": {
+            "morondava": 1
+        },
+        "mividy akanjo": {
+            "lava": 1
+        },
+        "akanjo lava": {
+            "ny": 1
+        },
+        "lava ny": {
+            "vehivavy": 1
+        },
+        "vehivavy ho": {
+            "any": 1
+        },
+        "olona mitandrina": {
+            "ny": 1
+        },
+        "mitandrina ny": {
+            "tontolo": 1
+        },
+        "manao diabe": {
+            "ny": 1
+        },
+        "diabe ny": {
+            "mpanao": 1
+        },
+        "rano mafana": {
+            "miboiboika": 1
+        },
+        "mafana miboiboika": {
+            "avy": 1
+        },
+        "miboiboika avy": {
+            "amin": 1
+        },
+        "mividy hena": {
+            "kisoa": 1
+        },
+        "hena kisoa": {
+            "izahay": 1
+        },
+        "kisoa izahay": {
+            "hatao": 1
+        },
+        "misy orinasa": {
+            "lehibe": 1
+        },
+        "orinasa lehibe": {
+            "miorina": 1
+        },
+        "manao dokam": {
+            "barotra": 1
+        },
+        "dokam barotra": {
+            "ny": 1
+        },
+        "barotra ny": {
+            "mpivarotra": 1
+        },
+        "ny mpivarotra": {
+            "mba": 1
+        },
+        "mpivarotra mba": {
+            "hahazoana": 1
+        },
+        "mba hahazoana": {
+            "mpanjifa": 1
+        },
+        "ala kininina": {
+            "maro": 1
+        },
+        "kininina maro": {
+            "any": 1
+        },
+        "maro any": {
+            "amin": 2,
+            "amoron": 1
+        },
+        "mividy boky": {
+            "tantara": 1
+        },
+        "boky tantara": {
+            "ho": 1
+        },
+        "tantara ho": {
+            "an": 1
+        },
+        "misy havoana": {
+            "maitso": 1
+        },
+        "havoana maitso": {
+            "mavana": 1
+        },
+        "maitso mavana": {
+            "any": 1
+        },
+        "mavana any": {
+            "ambanivohitra": 1
+        },
+        "manao fandraisana": {
+            "vahiny": 1
+        },
+        "fandraisana vahiny": {
+            "tsara": 1
+        },
+        "vahiny tsara": {
+            "ny": 1
+        },
+        "trano tsy": {
+            "misy": 1
+        },
+        "bisikileta ny": {
+            "ankizy": 1
+        },
+        "hazo voanio": {
+            "maro": 1
+        },
+        "voanio maro": {
+            "any": 1
+        },
+        "ny tanora": {
+            "isa": 1,
+            "amin": 1
+        },
+        "tanora isa": {
+            "maraina": 1
+        },
+        "misy sary": {
+            "hosodoko": 1
+        },
+        "sary hosodoko": {
+            "tsara": 1
+        },
+        "hosodoko tsara": {
+            "tarehy": 1
+        },
+        "tarehy eo": {
+            "amin": 1
+        },
+        "mividy lamba": {
+            "fanaovan": 1
+        },
+        "lamba fanaovan": {
+            "drindrina": 1
+        },
+        "fanaovan drindrina": {
+            "ny": 1
+        },
+        "drindrina ny": {
+            "reniko": 1
+        },
+        "tonga nijery": {
+            "ilay": 1
+        },
+        "nijery ilay": {
+            "fampisehoana": 1
+        },
+        "manao soratra": {
+            "tsara": 1
+        },
+        "soratra tsara": {
+            "ny": 1
+        },
+        "mpianatra ao": {
+            "anaty": 1
+        },
+        "voromailala mitady": {
+            "hanina": 1
+        },
+        "mitady hanina": {
+            "eo": 1
+        },
+        "hanina eo": {
+            "an": 1
+        },
+        "mividy karatra": {
+            "fahana": 1
+        },
+        "karatra fahana": {
+            "ho": 1
+        },
+        "fahana ho": {
+            "an": 1
+        },
+        "ny finday": {
+            "ny": 1
+        },
+        "misy fanafody": {
+            "famonoana": 1
+        },
+        "fanafody famonoana": {
+            "bibikely": 1
+        },
+        "famonoana bibikely": {
+            "ampiasain": 1
+        },
+        "bibikely ampiasain": {
+            "ny": 1
+        },
+        "ampiasain ny": {
+            "tantsaha": 1,
+            "mpanakanto": 1
+        },
+        "manao fialan": {
+            "tsasatra": 1
+        },
+        "fialan tsasatra": {
+            "ny": 1
+        },
+        "tsasatra ny": {
+            "mpiasa": 1
+        },
+        "ny mpiasa": {
+            "rehefa": 1
+        },
+        "mpiasa rehefa": {
+            "reraka": 1
+        },
+        "madio azo": {
+            "sotroina": 1
+        },
+        "azo sotroina": {
+            "avy": 1
+        },
+        "sotroina avy": {
+            "amin": 1
+        },
+        "mividy kojakoja": {
+            "an": 1
+        },
+        "kojakoja an": {
+            "dakozia": 1
+        },
+        "an dakozia": {
+            "ny": 1
+        },
+        "dakozia ny": {
+            "reniko": 1
+        },
+        "kely miditra": {
+            "any": 1
+        },
+        "miditra any": {
+            "anaty": 1
+        },
+        "manao famandrihana": {
+            "toerana": 1
+        },
+        "famandrihana toerana": {
+            "ny": 1
+        },
+        "toerana ny": {
+            "mpizahatany": 1
+        },
+        "masoandro mody": {
+            "mena": 1
+        },
+        "mody mena": {
+            "tsara": 1
+        },
+        "mena tsara": {
+            "tarehy": 1
+        },
+        "mividy firavaka": {
+            "sandoka": 1
+        },
+        "firavaka sandoka": {
+            "ny": 1
+        },
+        "sandoka ny": {
+            "ankizy": 1
+        },
+        "misy mpihira": {
+            "malaza": 1
+        },
+        "mpihira malaza": {
+            "ho": 1
+        },
+        "malaza ho": {
+            "avy": 1
+        },
+        "manao fihazana": {
+            "ny": 1
+        },
+        "fihazana ny": {
+            "lehilahy": 1
+        },
+        "ny lehilahy": {
+            "any": 1
+        },
+        "lehilahy any": {
+            "anaty": 1
+        },
+        "misy tanimbary": {
+            "midadasika": 1
+        },
+        "tanimbary midadasika": {
+            "any": 1
+        },
+        "midadasika any": {
+            "amin": 1
+        },
+        "mividy fitaovana": {
+            "fambolena": 1
+        },
+        "fitaovana fambolena": {
+            "ny": 1
+        },
+        "fambolena ny": {
+            "tantsaha": 1
+        },
+        "misy tavy": {
+            "ala": 1
+        },
+        "tavy ala": {
+            "miteraka": 1
+        },
+        "ala miteraka": {
+            "fahasimban": 1
+        },
+        "miteraka fahasimban": {
+            "ny": 1
+        },
+        "fahasimban ny": {
+            "tontolo": 1
+        },
+        "manao fandevenana": {
+            "ny": 1
+        },
+        "fandevenana ny": {
+            "fianakaviana": 1
+        },
+        "fianakaviana rehefa": {
+            "misy": 1
+        },
+        "rehefa misy": {
+            "maty": 1
+        },
+        "misy zaza": {
+            "mitomany": 1
+        },
+        "zaza mitomany": {
+            "satria": 1
+        },
+        "mitomany satria": {
+            "noana": 1
+        },
+        "mofo dipaina": {
+            "ny": 1
+        },
+        "dipaina ny": {
+            "ankizy": 1
+        },
+        "ankizy isaky": {
+            "ny": 1
+        },
+        "misy tranom": {
+            "bakoka": 1
+        },
+        "tranom bakoka": {
+            "mampiseho": 1
+        },
+        "bakoka mampiseho": {
+            "ny": 1
+        },
+        "mampiseho ny": {
+            "tantaran": 1
+        },
+        "ny tantaran": {
+            "ny": 1
+        },
+        "tantaran ny": {
+            "firenena": 1
+        },
+        "fikarohana momba": {
+            "ny": 1
+        },
+        "ny zavamaniry": {
+            "ny": 1
+        },
+        "zavamaniry ny": {
+            "mpianatra": 1
+        },
+        "mikoriana mafy": {
+            "any": 1
+        },
+        "mafy any": {
+            "amin": 1
+        },
+        "ny rian": {
+            "drano": 1
+        },
+        "mividy kilalao": {
+            "vaovao": 1
+        },
+        "kilalao vaovao": {
+            "ny": 1
+        },
+        "aman dreny": {
+            "ho": 1
+        },
+        "dreny ho": {
+            "an": 1
+        },
+        "misy bibidia": {
+            "maro": 1
+        },
+        "bibidia maro": {
+            "any": 1
+        },
+        "ny valan": {
+            "javaboary": 1
+        },
+        "akanjo fety": {
+            "ny": 1
+        },
+        "fety ny": {
+            "ankizy": 1
+        },
+        "ankizy amin": {
+            "ny": 1
+        },
+        "misy orana": {
+            "mikija": 1
+        },
+        "orana mikija": {
+            "any": 1
+        },
+        "mikija any": {
+            "amin": 1
+        },
+        "mividy kitay": {
+            "ho": 1
+        },
+        "kitay ho": {
+            "an": 1
+        },
+        "ny fandrahoana": {
+            "ny": 1
+        },
+        "trano fandraisam": {
+            "bahiny": 1
+        },
+        "fandraisam bahiny": {
+            "tsara": 1
+        },
+        "bahiny tsara": {
+            "ho": 1
+        },
+        "manao lahateny": {
+            "ny": 1
+        },
+        "lahateny ny": {
+            "filoham": 1
+        },
+        "ny filoham": {
+            "pirenena": 1
+        },
+        "lalana mitsidika": {
+            "ny": 1
+        },
+        "mitsidika ny": {
+            "tendrombohitra": 1
+        },
+        "kiraro baolina": {
+            "ny": 1
+        },
+        "baolina ny": {
+            "mpilalao": 1
+        },
+        "mivarotra hena": {
+            "eo": 1
+        },
+        "hena eo": {
+            "amoron": 1
+        },
+        "ny lakandrano": {
+            "ny": 1
+        },
+        "lakandrano ny": {
+            "fokonolona": 1
+        },
+        "misy ranomainty": {
+            "ao": 1
+        },
+        "ranomainty ao": {
+            "anatin": 1
+        },
+        "mividy rano": {
+            "an": 1
+        },
+        "rano an": {
+            "tavoahangy": 1
+        },
+        "an tavoahangy": {
+            "izahay": 1
+        },
+        "tavoahangy izahay": {
+            "hohanina": 1
+        },
+        "izahay hohanina": {
+            "any": 1
+        },
+        "hohanina any": {
+            "an": 1
+        },
+        "hazo manga": {
+            "be": 1
+        },
+        "be voa": {
+            "eo": 1
+        },
+        "voa eo": {
+            "an": 1
+        },
+        "lalao afobe": {
+            "ny": 1
+        },
+        "afobe ny": {
+            "tanora": 1
+        },
+        "tanora amin": {
+            "ny": 1
+        },
+        "olona mianatra": {
+            "teny": 1
+        },
+        "teny frantsay": {
+            "any": 1,
+            "ary": 1
+        },
+        "frantsay any": {
+            "am": 1
+        },
+        "mividy paty": {
+            "sy": 1
+        },
+        "paty sy": {
+            "vary": 1
+        },
+        "sy vary": {
+            "ny": 1
+        },
+        "gidro mitsambikina": {
+            "isaky": 1
+        },
+        "mitsambikina isaky": {
+            "ny": 1
+        },
+        "ny rantsan": {
+            "kazo": 1
+        },
+        "manao raharaha": {
+            "ao": 1
+        },
+        "raharaha ao": {
+            "an": 1
+        },
+        "an trano": {
+            "ny": 1
+        },
+        "trano ny": {
+            "ankizivavy": 1
+        },
+        "mivady manao": {
+            "akany": 1
+        },
+        "mividy fitaratra": {
+            "ho": 1
+        },
+        "fitaratra ho": {
+            "an": 1
+        },
+        "efitrano fandroana": {
+            "izahay": 1
+        },
+        "landy ampiasaina": {
+            "amin": 1
+        },
+        "ny famonosana": {
+            "faty": 1
+        },
+        "manao fanandramana": {
+            "ny": 1
+        },
+        "fanandramana ny": {
+            "mpianatra": 1
+        },
+        "lalana malama": {
+            "rehefa": 1
+        },
+        "malama rehefa": {
+            "avy": 1
+        },
+        "rehefa avy": {
+            "ny": 1
+        },
+        "mividy koba": {
+            "mafana": 1
+        },
+        "koba mafana": {
+            "izahay": 1
+        },
+        "ny sakafo": {
+            "maraina": 1
+        },
+        "vato sarobidy": {
+            "trandrahina": 1
+        },
+        "sarobidy trandrahina": {
+            "any": 1
+        },
+        "trandrahina any": {
+            "ilakaka": 1
+        },
+        "manao tsianjery": {
+            "ny": 1
+        },
+        "tsianjery ny": {
+            "mpianatra": 1
+        },
+        "misy omby": {
+            "maro": 1
+        },
+        "omby maro": {
+            "miran": 1
+        },
+        "maro miran": {
+            "drano": 1
+        },
+        "miran drano": {
+            "any": 1
+        },
+        "drano any": {
+            "amin": 1
+        },
+        "moka ny": {
+            "reniko": 1
+        },
+        "trano biriky": {
+            "miorina": 1
+        },
+        "biriky miorina": {
+            "eo": 1
+        },
+        "ny mponina": {
+            "isaky": 1
+        },
+        "mponina isaky": {
+            "ny": 1
+        },
+        "main tany": {
+            "ny": 1
+        },
+        "ny sekoly": {
+            "ambaratonga": 1
+        },
+        "sekoly ambaratonga": {
+            "faharoa": 1
+        },
+        "ambaratonga faharoa": {
+            "fototra": 1,
+            "dingana": 1
+        },
+        "faharoa fototra": {
+            "saff": 1
+        },
+        "fototra saff": {
+            "dia": 1
+        },
+        "saff dia": {
+            "tokony": 1
+        },
+        "tokony ho": {
+            "afaka": 1,
+            "sehatra": 1
+        },
+        "mampiasa ireo": {
+            "fitaovana": 1
+        },
+        "ireo fitaovana": {
+            "sy": 1
+        },
+        "fitaovana sy": {
+            "fomba": 1
+        },
+        "sy fomba": {
+            "fandinihana": 1
+        },
+        "fomba fandinihana": {
+            "ny": 1
+        },
+        "ny filazana": {
+            "ireo": 1
+        },
+        "filazana ireo": {
+            "tranga": 1
+        },
+        "ireo tranga": {
+            "voajanahary": 1
+        },
+        "tranga voajanahary": {
+            "isan": 1
+        },
+        "voajanahary isan": {
+            "karazany": 1
+        },
+        "karazany sy": {
+            "ny": 1
+        },
+        "ny toe": {
+            "javatra": 1,
+            "karena": 1
+        },
+        "mampiasa rijan": {
+            "kevitra": 1
+        },
+        "rijan kevitra": {
+            "lojika": 1
+        },
+        "mahatakatra ny": {
+            "fivoaran": 1
+        },
+        "zava mitranga": {
+            "ara": 1
+        },
+        "mitranga ara": {
+            "piaraha": 1
+        },
+        "ara piaraha": {
+            "monina": 1
+        },
+        "piaraha monina": {
+            "ara": 1
+        },
+        "monina ara": {
+            "politika": 1
+        },
+        "ara politika": {
+            "ary": 1
+        },
+        "politika ary": {
+            "ny": 1
+        },
+        "ny firafitra": {
+            "fototry": 1
+        },
+        "firafitra fototry": {
+            "ny": 1
+        },
+        "fototry ny": {
+            "toe": 1
+        },
+        "mahatakatra sy": {
+            "manaja": 1
+        },
+        "sy manaja": {
+            "ny": 1
+        },
+        "manaja ny": {
+            "kolontsaina": 1
+        },
+        "kolontsaina malagasy": {
+            "sy": 1
+        },
+        "malagasy sy": {
+            "ny": 1
+        },
+        "ny soatoavina": {
+            "raketiny": 1
+        },
+        "malagasy araka": {
+            "ny": 1
+        },
+        "ny fitsipika": {
+            "mifehy": 1
+        },
+        "fitsipika mifehy": {
+            "azy": 1
+        },
+        "mifehy azy": {
+            "eo": 1
+        },
+        "sehatra isankarazany": {
+            "misy": 1
+        },
+        "isankarazany misy": {
+            "eo": 1
+        },
+        "mampita hevitra": {
+            "amin": 1,
+            "am": 1
+        },
+        "hevitra amin": {
+            "ny": 1
+        },
+        "frantsay ary": {
+            "afaka": 1
+        },
+        "ary afaka": {
+            "mampiasa": 1
+        },
+        "afaka mampiasa": {
+            "azy": 1
+        },
+        "mampiasa azy": {
+            "ara": 1
+        },
+        "azy ara": {
+            "pitsipika": 1
+        },
+        "ara pitsipika": {
+            "eo": 1
+        },
+        "pitsipika eo": {
+            "amin": 1
+        },
+        "ny sehatry": {
+            "ny": 1
+        },
+        "sehatry ny": {
+            "fampitana": 1
+        },
+        "ny fampitana": {
+            "fanovozan": 1
+        },
+        "fampitana fanovozan": {
+            "pahalalana": 1
+        },
+        "hevitra am": {
+            "bava": 1
+        },
+        "am bava": {
+            "sy": 1
+        },
+        "bava sy": {
+            "an": 1
+        },
+        "sy an": {
+            "tsoratra": 1
+        },
+        "an tsoratra": {
+            "amin": 1
+        },
+        "tsoratra amin": {
+            "ny": 1
+        },
+        "mitondra tena": {
+            "toy": 1
+        },
+        "tena toy": {
+            "ny": 1
+        },
+        "ny olom": {
+            "pirenena": 1
+        },
+        "olom pirenena": {
+            "tompon": 1
+        },
+        "pirenena tompon": {
+            "andraikitra": 1
+        },
+        "tompon andraikitra": {
+            "sady": 1
+        },
+        "andraikitra sady": {
+            "mahafantatra": 1
+        },
+        "sady mahafantatra": {
+            "ny": 1
+        },
+        "mahafantatra ny": {
+            "adidiny": 1,
+            "zava": 1
+        },
+        "ny adidiny": {
+            "no": 1
+        },
+        "adidiny no": {
+            "mahalala": 1
+        },
+        "no mahalala": {
+            "ny": 1
+        },
+        "mahalala ny": {
+            "zo": 1
+        },
+        "ny zo": {
+            "fototra": 1
+        },
+        "zo fototra": {
+            "ananany": 1
+        },
+        "maneho fahaizana": {
+            "mandanjalanja": 1
+        },
+        "fahaizana mandanjalanja": {
+            "sy": 1
+        },
+        "mandanjalanja sy": {
+            "toetra": 1
+        },
+        "sy toetra": {
+            "tia": 1
+        },
+        "toetra tia": {
+            "fandeferana": 1
+        },
+        "maneho fihetsika": {
+            "tia": 1
+        },
+        "fihetsika tia": {
+            "karokaroka": 1
+        },
+        "tia karokaroka": {
+            "sy": 1
+        },
+        "karokaroka sy": {
+            "mamoron": 1
+        },
+        "sy mamoron": {
+            "javatra": 1
+        },
+        "mamoron javatra": {
+            "ary": 1
+        },
+        "javatra ary": {
+            "mampiasa": 1
+        },
+        "ary mampiasa": {
+            "amimpahombiazana": 1
+        },
+        "mampiasa amimpahombiazana": {
+            "ny": 1
+        },
+        "amimpahombiazana ny": {
+            "fahalalana": 1
+        },
+        "fahalalana azony": {
+            "avy": 1
+        },
+        "azony avy": {
+            "amin": 1
+        },
+        "mametraka ny": {
+            "faritra": 1
+        },
+        "faritra misy": {
+            "azy": 1
+        },
+        "misy azy": {
+            "na": 1
+        },
+        "azy na": {
+            "amin": 1
+        },
+        "na amin": {
+            "ny": 2
+        },
+        "lafiny sosialy": {
+            "sy": 1
+        },
+        "sosialy sy": {
+            "toe": 1
+        },
+        "sy toe": {
+            "karena": 1
+        },
+        "karena na": {
+            "amin": 1
+        },
+        "lafiny kolontsaina": {
+            "eo": 1
+        },
+        "kolontsaina eo": {
+            "anivon": 1
+        },
+        "ny firenena": {
+            "ary": 1
+        },
+        "firenena ary": {
+            "mahafantatra": 1
+        },
+        "ary mahafantatra": {
+            "ny": 1
+        },
+        "misy any": {
+            "ivelany": 1
+        },
+        "any ivelany": {
+            "manangana": 1
+        },
+        "ivelany manangana": {
+            "sy": 1
+        },
+        "manangana sy": {
+            "mitantana": 1
+        },
+        "sy mitantana": {
+            "orinasa": 1
+        },
+        "mitantana orinasa": {
+            "madinika": 1
+        },
+        "ahafahana mifehy": {
+            "sy": 1
+        },
+        "mifehy sy": {
+            "mamolaka": 1
+        },
+        "sy mamolaka": {
+            "ny": 1
+        },
+        "mamolaka ny": {
+            "fahalalana": 1
+        },
+        "ny fahaizamanao": {
+            "ary": 1
+        },
+        "fahaizamanao ary": {
+            "ny": 1
+        },
+        "ny tekinika": {
+            "ka": 1
+        },
+        "tekinika ka": {
+            "anabeazana": 1
+        },
+        "ka anabeazana": {
+            "feno": 1
+        },
+        "fampianarana azy": {
+            "dia": 1
+        },
+        "azy dia": {
+            "tokony": 1,
+            "tsy": 1
+        },
+        "ho sehatra": {
+            "iray": 1
+        },
+        "sehatra iray": {
+            "itaizana": 1
+        },
+        "iray itaizana": {
+            "ny": 1
+        },
+        "itaizana ny": {
+            "mpianatra": 1
+        },
+        "ny kolon": {
+            "tsaina": 1
+        },
+        "kolon tsaina": {
+            "sy": 1
+        },
+        "tsaina sy": {
+            "ny": 1,
+            "fahendrena": 1
+        },
+        "matotra amin": {
+            "ny": 1
+        },
+        "lafiny hevitra": {
+            "isan": 1
+        },
+        "tia ny": {
+            "fandrosoana": 1
+        },
+        "ny fandrosoana": {
+            "ho": 1
+        },
+        "malagasy ao": {
+            "amin": 1
+        },
+        "faharoa dingana": {
+            "voalohany": 1
+        },
+        "dingana voalohany": {
+            "dia": 1
+        },
+        "voalohany dia": {
+            "mpianatra": 1
+        },
+        "dia mpianatra": {
+            "afaka": 1
+        },
+        "sy fahendrena": {
+            "malagasy": 1
+        },
+        "fahendrena malagasy": {
+            "voatahiry": 1
+        },
+        "malagasy voatahiry": {
+            "ao": 1
+        },
+        "voatahiry ao": {
+            "anatina": 1
+        },
+        "ao anatina": {
+            "lahabolana": 1
+        },
+        "anatina lahabolana": {
+            "sy": 1
+        },
+        "lahabolana sy": {
+            "lahatsoratra": 2
+        },
+        "sy lahatsoratra": {
+            "na": 1
+        },
+        "maneho hevitra": {
+            "matotra": 1
+        },
+        "hevitra matotra": {
+            "sy": 1
+        },
+        "sy mirindra": {
+            "ary": 1,
+            "vakiteny": 1
+        },
+        "mirindra ary": {
+            "tsy": 1
+        },
+        "ary tsy": {
+            "ahitana": 1
+        },
+        "tsy ahitana": {
+            "fahadisoana": 1
+        },
+        "ahitana fahadisoana": {
+            "na": 1
+        },
+        "fahadisoana na": {
+            "eo": 1
+        },
+        "na eo": {
+            "amin": 2
+        },
+        "lafiny fitsipi": {
+            "pitenenana": 1
+        },
+        "fitsipi pitenenana": {
+            "na": 1
+        },
+        "pitenenana na": {
+            "eo": 1
+        },
+        "mamakafaka sy": {
+            "mandanjalanja": 1
+        },
+        "sy mandanjalanja": {
+            "ny": 1
+        },
+        "mandanjalanja ny": {
+            "vontoatin": 1
+        },
+        "ny vontoatin": {
+            "ny": 1
+        },
+        "vontoatin ny": {
+            "hevitra": 1
+        },
+        "hevitra mifampikasoka": {
+            "aminy": 1
+        },
+        "ny fahaizany": {
+            "mitrandraka": 1
+        },
+        "fahaizany mitrandraka": {
+            "lahabolana": 1
+        },
+        "mitrandraka lahabolana": {
+            "sy": 1
+        },
+        "literatiora dia": {
+            "manomboka": 1
+        },
+        "dia manomboka": {
+            "amin": 1
+        },
+        "manomboka amin": {
+            "ny": 1
+        },
+        "ny fahafolahana": {
+            "ny": 1
+        },
+        "fahafolahana ny": {
+            "dingana": 1
+        },
+        "rehetra eo": {
+            "amin": 1
+        },
+        "ny vakiteny": {
+            "vakiteny": 1
+        },
+        "vakiteny vakiteny": {
+            "mafy": 1
+        },
+        "vakiteny mafy": {
+            "sy": 1
+        },
+        "mafy sy": {
+            "mirindra": 1
+        },
+        "mirindra vakiteny": {
+            "mangina": 1
+        },
+        "vakiteny mangina": {
+            "fitsimponana": 1
+        },
+        "mangina fitsimponana": {
+            "ny": 1
+        },
+        "fitsimponana ny": {
+            "sokajin": 1
+        },
+        "ny sokajin": {
+            "kevitra": 1
+        },
+        "sokajin kevitra": {
+            "fonosiny": 1
+        },
+        "kevitra fonosiny": {
+            "izay": 1
+        },
+        "fonosiny izay": {
+            "mahakasika": 1
+        },
+        "izay mahakasika": {
+            "ny": 1
+        },
+        "mahakasika ny": {
+            "literatiora": 1
+        },
+        "literatiora amin": {
+            "ny": 2
+        },
+        "maha literatiora": {
+            "azy": 2
+        },
+        "literatiora azy": {
+            "ary": 1,
+            "dia": 1
+        },
+        "azy ary": {
+            "indrindra": 1
+        },
+        "ny riba": {
+            "ianarana": 1
+        },
+        "riba ianarana": {
+            "jereo": 1
+        },
+        "ianarana jereo": {
+            "fafana": 1
+        },
+        "jereo fafana": {
+            "fanadihadiana": 1
+        },
+        "ny mahakanto": {
+            "ny": 1
+        },
+        "mahakanto ny": {
+            "asa": 1
+        },
+        "asa soratra": {
+            "ihany": 1
+        },
+        "soratra ihany": {
+            "koa": 1
+        },
+        "koa ny": {
+            "firindran": 1
+        },
+        "ny firindran": {
+            "ny": 1
+        },
+        "firindran ny": {
+            "vontoatiny": 1
+        },
+        "ny vontoatiny": {
+            "sy": 1
+        },
+        "vontoatiny sy": {
+            "ny": 1
+        },
+        "ny endriny": {
+            "ivelany": 1
+        },
+        "endriny ivelany": {
+            "noho": 1
+        },
+        "ivelany noho": {
+            "izany": 1
+        },
+        "azo atao": {
+            "tsara": 1
+        },
+        "atao tsara": {
+            "ny": 1
+        },
+        "ny mitrandraka": {
+            "ny": 1
+        },
+        "mitrandraka ny": {
+            "hevitra": 1
+        },
+        "hevitra fonosin": {
+            "ny": 1
+        },
+        "fonosin ny": {
+            "lahatsoratra": 1
+        },
+        "ny lahatsoratra": {
+            "na": 1
+        },
+        "lahabolana dinihina": {
+            "avy": 1
+        },
+        "dinihina avy": {
+            "amin": 1
+        },
+        "ny fanehoan": {
+            "kevitra": 1
+        },
+        "fanehoan kevitra": {
+            "sy": 2
+        },
+        "ny filazan": {
+            "javatra": 2
+        },
+        "filazan javatra": {
+            "ampiasain": 1,
+            "dia": 1,
+            "manao": 1
+        },
+        "javatra ampiasain": {
+            "ny": 1
+        },
+        "ny mpanakanto": {
+            "ny": 1
+        },
+        "mpanakanto ny": {
+            "tantaram": 1
+        },
+        "ny tantaram": {
+            "piainan": 1
+        },
+        "tantaram piainan": {
+            "ny": 1
+        },
+        "piainan ny": {
+            "mpanoratra": 1
+        },
+        "tsy anokanana": {
+            "afa": 1
+        },
+        "anokanana afa": {
+            "tsy": 1
+        },
+        "afa tsy": {
+            "seho": 1,
+            "ianao": 1
+        },
+        "tsy seho": {
+            "vitsivitsy": 1
+        },
+        "seho vitsivitsy": {
+            "ihany": 1
+        },
+        "vitsivitsy ihany": {
+            "famaritana": 1
+        },
+        "ihany famaritana": {
+            "ny": 1
+        },
+        "famaritana ny": {
+            "literatiora": 1
+        },
+        "literatiora tantarampiainan": {
+            "ny": 1
+        },
+        "tantarampiainan ny": {
+            "mpanoratra": 1
+        },
+        "ny mpanoratra": {
+            "ny": 1
+        },
+        "mpanoratra ny": {
+            "mampiavaka": 1
+        },
+        "mampiavaka azy": {
+            "ny": 1
+        },
+        "ny hakanto": {
+            "eo": 1
+        },
+        "hakanto eo": {
+            "amin": 1
+        },
+        "lafiny fanehoan": {
+            "kevitra": 1
+        },
+        "sy filazan": {
+            "javatra": 1
+        },
+        "javatra dia": {
+            "ezahina": 1
+        },
+        "dia ezahina": {
+            "ny": 1
+        },
+        "ezahina ny": {
+            "hamolaka": 1
+        },
+        "ny hamolaka": {
+            "izay": 1
+        },
+        "hamolaka izay": {
+            "efa": 1
+        },
+        "izay efa": {
+            "hita": 1
+        },
+        "kilasy rehetra": {
+            "teo": 1
+        },
+        "rehetra teo": {
+            "aloha": 1
+        },
+        "teo aloha": {
+            "miampy": 1
+        },
+        "aloha miampy": {
+            "ireto": 1
+        },
+        "miampy ireto": {
+            "ny": 1
+        },
+        "ireto ny": {
+            "fehezanteny": 1
+        },
+        "ny fehezanteny": {
+            "mitombo": 1
+        },
+        "fehezanteny mitombo": {
+            "vahana": 1
+        },
+        "mitombo vahana": {
+            "ny": 1
+        },
+        "vahana ny": {
+            "filazan": 1
+        },
+        "javatra manao": {
+            "an": 1
+        },
+        "manao an": {
+            "tanan": 1
+        },
+        "an tanan": {
+            "tohatra": 1
+        },
+        "tanan tohatra": {
+            "ny": 1
+        },
+        "tohatra ny": {
+            "tamberina": 1
+        },
+        "ny tamberina": {
+            "an": 1
+        },
+        "tamberina an": {
+            "doha": 1
+        },
+        "an doha": {
+            "sy": 1
+        },
+        "doha sy": {
+            "am": 1
+        },
+        "sy am": {
+            "paran": 1
+        },
+        "am paran": {
+            "ny": 1
+        },
+        "paran ny": {
+            "famelabelarana": 1
+        },
+        "ny famelabelarana": {
+            "ny": 1
+        },
+        "ny tamberinteny": {
+            "mifanesy": 1
+        },
+        "tamberinteny mifanesy": {
+            "tsy": 1
+        },
+        "mifanesy tsy": {
+            "misy": 1
+        },
+        "misy mpampitohy": {
+            "ny": 1
+        },
+        "mpampitohy ny": {
+            "filaza": 1
+        },
+        "ny filaza": {
+            "masaka": 1
+        },
+        "filaza masaka": {
+            "ny": 1
+        },
+        "masaka ny": {
+            "fanalefahan": 1
+        },
+        "ny fanalefahan": {
+            "kevitra": 1
+        },
+        "ny antontam": {
+            "panontaniana": 1
+        },
+        "antontam panontaniana": {
+            "omen": 1
+        },
+        "panontaniana omen": {
+            "ny": 1
+        },
+        "omen ny": {
+            "mpampianatra": 1
+        },
+        "mpampianatra hatrany": {
+            "ny": 1
+        },
+        "asa fanadihadiana": {
+            "ataon": 1
+        },
+        "fanadihadiana ataon": {
+            "ny": 1
+        },
+        "ataon ny": {
+            "mpianatra": 1
+        },
+        "raha mbola": {
+            "fitia": 1
+        },
+        "mbola fitia": {
+            "aza": 1
+        },
+        "fitia aza": {
+            "manahy": 1
+        },
+        "aza manahy": {
+            "fa": 1
+        },
+        "manahy fa": {
+            "mbola": 1
+        },
+        "fa mbola": {
+            "misy": 1
+        },
+        "misy ho": {
+            "anao": 1
+        },
+        "ho anao": {
+            "aty": 1
+        },
+        "za tsy": {
+            "hitsitsy": 1
+        },
+        "tsy hitsitsy": {
+            "fa": 1
+        },
+        "hitsitsy fa": {
+            "ny": 1
+        },
+        "ny fiainako": {
+            "mihitsy": 2
+        },
+        "fiainako mihitsy": {
+            "no": 2
+        },
+        "mihitsy no": {
+            "omeko": 1,
+            "atolotro": 1
+        },
+        "no omeko": {
+            "hafoiko": 1
+        },
+        "omeko hafoiko": {
+            "ho": 1,
+            "hatolotro": 2
+        },
+        "hafoiko ho": {
+            "an": 1
+        },
+        "tsara karakara": {
+            "voky": 2
+        },
+        "karakara voky": {
+            "tambitamby": 2
+        },
+        "voky tambitamby": {
+            "feno": 2
+        },
+        "tambitamby feno": {
+            "hafaliana": 2
+        },
+        "feno hafaliana": {
+            "aho": 2
+        },
+        "hafaliana aho": {
+            "manana": 2
+        },
+        "aho manana": {
+            "anao": 3
+        },
+        "ambony alitara": {
+            "hanaovantsika": 1
+        },
+        "alitara hanaovantsika": {
+            "voady": 1
+        },
+        "porofoiko fa": {
+            "tsy": 1
+        },
+        "aza tsiny": {
+            "raha": 1
+        },
+        "tsiny raha": {
+            "toa": 1
+        },
+        "toa mitomany": {
+            "ranomasom": 1
+        },
+        "mitomany ranomasom": {
+            "pifaliana": 1
+        },
+        "ranomasom pifaliana": {
+            "ny": 1
+        },
+        "pifaliana ny": {
+            "ahy": 1
+        },
+        "ilay foko": {
+            "iny": 1
+        },
+        "foko iny": {
+            "lasa": 1
+        },
+        "iny lasa": {
+            "falifaly": 1
+        },
+        "satria nahazo": {
+            "sila": 1
+        },
+        "nahazo sila": {
+            "panahy": 1
+        },
+        "fa na": {
+            "ny": 2
+        },
+        "ny aiko": {
+            "aza": 2
+        },
+        "aiko aza": {
+            "omeko": 2
+        },
+        "aza omeko": {
+            "hafoiko": 2
+        },
+        "hafoiko hatolotro": {
+            "anao": 2
+        },
+        "izay momba": {
+            "anao": 1
+        },
+        "momba anao": {
+            "ekeko": 1
+        },
+        "anao ekeko": {
+            "tena": 1
+        },
+        "ekeko tena": {
+            "sambatra": 1
+        },
+        "tena sambatra": {
+            "aho": 1
+        },
+        "sambatra aho": {
+            "manana": 1
+        },
+        "manana anao": {
+            "hajaiko": 1
+        },
+        "anao hajaiko": {
+            "omeko": 1
+        },
+        "hajaiko omeko": {
+            "fitia": 1
+        },
+        "no atolotro": {
+            "an": 1
+        },
+        "atolotro an": {
+            "dry": 1
+        },
+        "efa ela": {
+            "no": 1
+        },
+        "ela no": {
+            "niaritra": 1
+        },
+        "no niaritra": {
+            "nangidy": 1
+        },
+        "niaritra nangidy": {
+            "ankehitriny": 1
+        },
+        "nangidy ankehitriny": {
+            "aho": 1
+        },
+        "ankehitriny aho": {
+            "higoka": 1
+        },
+        "aho higoka": {
+            "ny": 1
+        },
+        "higoka ny": {
+            "mamy": 1
+        },
+        "ny mamy": {
+            "ny": 1
+        },
+        "mamy ny": {
+            "hahasambatra": 1
+        },
+        "ny hahasambatra": {
+            "anao": 1
+        },
+        "hahasambatra anao": {
+            "ataoko": 1
+        },
+        "anao ataoko": {
+            "adidy": 1
+        },
+        "tsy an": {
+            "tery": 1
+        },
+        "an tery": {
+            "anie": 1
+        },
+        "tery anie": {
+            "izany": 1
+        },
+        "nila ho": {
+            "rendrika": 1
+        },
+        "ho rendrika": {
+            "aho": 1
+        },
+        "rendrika aho": {
+            "nefa": 1
+        },
+        "aho nefa": {
+            "nofonosinao": 1
+        },
+        "nandalo ny": {
+            "aizina": 1
+        },
+        "ny aizina": {
+            "ary": 1
+        },
+        "aizina ary": {
+            "izaho": 1
+        },
+        "ary izaho": {
+            "tena": 1
+        },
+        "izaho tena": {
+            "nampahoriana": 1
+        },
+        "nampahery ahy": {
+            "ianao": 1
+        },
+        "ahy ianao": {
+            "nanala": 1
+        },
+        "ianao nanala": {
+            "ny": 1
+        },
+        "nanala ny": {
+            "horohoro": 1
+        },
+        "tsy nafoinao": {
+            "aho": 1
+        },
+        "nafoinao aho": {
+            "na": 1
+        },
+        "aho na": {
+            "dia": 1
+        },
+        "na dia": {
+            "vizana": 1
+        },
+        "dia vizana": {
+            "sy": 1
+        },
+        "vizana sy": {
+            "torotoro": 1
+        },
+        "nositraninao ny": {
+            "ratrako": 1
+        },
+        "ny ratrako": {
+            "navaozinao": 1
+        },
+        "ratrako navaozinao": {
+            "indray": 1
+        },
+        "navaozinao indray": {
+            "aho": 1
+        },
+        "ny tananao": {
+            "nihazona": 1
+        },
+        "tananao nihazona": {
+            "ahy": 1
+        },
+        "nihazona ahy": {
+            "anao": 1
+        },
+        "ahy anao": {
+            "ny": 1
+        },
+        "anao ny": {
+            "ho": 1
+        },
+        "ny ho": {
+            "aviko": 1,
+            "sambatra": 1
+        },
+        "mino aho": {
+            "ry": 1
+        },
+        "aho ry": {
+            "tompo": 1
+        },
+        "ry tompo": {
+            "mahatoky": 1
+        },
+        "tompo mahatoky": {
+            "tsy": 1
+        },
+        "mahatoky tsy": {
+            "miova": 1
+        },
+        "ianao mpamelona": {
+            "sy": 1
+        },
+        "mpamelona sy": {
+            "mpanome": 1
+        },
+        "sy mpanome": {
+            "hery": 1
+        },
+        "raha very": {
+            "hevitra": 1
+        },
+        "very hevitra": {
+            "aho": 1
+        },
+        "hevitra aho": {
+            "ianao": 1
+        },
+        "aho ianao": {
+            "no": 1
+        },
+        "ianao no": {
+            "itodiako": 1
+        },
+        "jesoa malala": {
+            "o": 1
+        },
+        "malala o": {
+            "tsy": 1
+        },
+        "o tsy": {
+            "misy": 1
+        },
+        "misy toa": {
+            "anao": 1
+        },
+        "tsisy antenaiko": {
+            "afa": 1
+        },
+        "antenaiko afa": {
+            "tsy": 1
+        },
+        "tsy ianao": {
+            "tano": 1
+        },
+        "ianao tano": {
+            "ny": 1
+        },
+        "tano ny": {
+            "tanako": 1
+        },
+        "rakofy ny": {
+            "fanahinao": 1
+        },
+        "ny fanahinao": {
+            "tsy": 1
+        },
+        "fanahinao tsy": {
+            "hivarina": 1
+        },
+        "tsy hivarina": {
+            "intsony": 1
+        },
+        "ny anilanao": {
+            "tompo": 1
+        },
+        "anilanao tompo": {
+            "ô": 1
+        },
+        "tompo ô": {
+            "mamy": 1
+        },
+        "ô mamy": {
+            "misy": 1
+        },
+        "mamy misy": {
+            "fitoniana": 1
+        },
+        "na misy": {
+            "ady": 1
+        },
+        "misy ady": {
+            "anaty": 1
+        },
+        "ady anaty": {
+            "aza": 1
+        },
+        "anaty aza": {
+            "tsy": 1
+        },
+        "aza tsy": {
+            "levona": 1
+        },
+        "tsy levona": {
+            "ny": 1
+        },
+        "levona ny": {
+            "fahatokiana": 1
+        },
+        "ny androko": {
+            "rehetra": 1
+        },
+        "androko rehetra": {
+            "nofenoinao": 1
+        },
+        "rehetra nofenoinao": {
+            "hazavana": 1
+        },
+        "ka hidera": {
+            "anao": 1
+        },
+        "hidera anao": {
+            "aho": 1
+        },
+        "anao aho": {
+            "hankalaza": 1
+        },
+        "aho hankalaza": {
+            "ny": 1
+        },
+        "hankalaza ny": {
+            "anaranao": 1,
+            "anarany": 1
+        },
+        "nalevinao ireo": {
+            "lasako": 1
+        },
+        "ireo lasako": {
+            "tsy": 1
+        },
+        "lasako tsy": {
+            "tiako": 1
+        },
+        "tsy tiako": {
+            "ho": 1
+        },
+        "tiako ho": {
+            "tsaroana": 1
+        },
+        "asandratro avo": {
+            "ianao": 1
+        },
+        "avo ianao": {
+            "jesoa": 1
+        },
+        "ianao jesoa": {
+            "ianao": 1
+        },
+        "jesoa ianao": {
+            "tsy": 1
+        },
+        "ianao tsy": {
+            "mandao": 1
+        },
+        "tsy mandao": {
+            "ahy": 1
+        },
+        "misy intsony": {
+            "ety": 1
+        },
+        "intsony ety": {
+            "an": 1
+        },
+        "ety an": {
+            "tany": 1
+        },
+        "fanantenako ny": {
+            "ho": 1
+        },
+        "ho sambatra": {
+            "e": 1
+        },
+        "soa ihany": {
+            "anefa": 1,
+            "jeso": 1
+        },
+        "ihany anefa": {
+            "fa": 1
+        },
+        "fa nisy": {
+            "izany": 1
+        },
+        "fiadanana any": {
+            "an": 1
+        },
+        "isaoranay ianao": {
+            "ry": 1
+        },
+        "ianao ry": {
+            "ray": 1
+        },
+        "ry ray": {
+            "ô": 1
+        },
+        "asandratray ny": {
+            "anaranao": 1
+        },
+        "derainay koa": {
+            "mandrakizay": 1
+        },
+        "ny lazanao": {
+            "sy": 1
+        },
+        "lazanao sy": {
+            "ny": 1
+        },
+        "ny hadalako": {
+            "sy": 1
+        },
+        "hadalako sy": {
+            "fahotana": 1
+        },
+        "manenika ny": {
+            "fiainako": 1
+        },
+        "ihany jeso": {
+            "fa": 1
+        },
+        "jeso fa": {
+            "tsy": 1
+        },
+        "ny helok": {
+            "izay": 1
+        },
+        "helok izay": {
+            "hifonako": 1
+        },
+        "midera an": {
+            "i": 1
+        },
+        "i jehovah": {
+            "aho": 1
+        },
+        "sy hankalaza": {
+            "ny": 1
+        },
+        "araho maso": {
+            "anie": 1
+        },
+        "maso anie": {
+            "iny": 1
+        },
+        "anie iny": {
+            "rahona": 1
+        },
+        "iny rahona": {
+            "iny": 1
+        },
+        "rahona iny": {
+            "e": 1
+        },
+        "izay tazanao": {
+            "eny": 1
+        },
+        "tazanao eny": {
+            "ambony": 1
+        },
+        "eny ambony": {
+            "eny": 1
+        },
+        "ambony eny": {
+            "e": 1
+        },
+        "matetik izy": {
+            "ireo": 2
+        },
+        "izy ireo": {
+            "manao": 2
+        },
+        "ireo manao": {
+            "andiany": 2
+        },
+        "miova sy": {
+            "miara": 1
+        },
+        "sy miara": {
+            "dia": 1
+        },
+        "miara dia": {
+            "irony": 1
+        },
+        "kanefa indrisy": {
+            "ireo": 1
+        },
+        "indrisy ireo": {
+            "fa": 1
+        },
+        "ireo fa": {
+            "tsy": 1
+        },
+        "ny fetran": {
+            "ny": 1
+        },
+        "fetran ny": {
+            "tananan": 1
+        },
+        "ny tananan": {
+            "izy": 1
+        },
+        "tananan izy": {
+            "ireo": 1
+        },
+        "fa vetivety": {
+            "monja": 1
+        },
+        "vetivety monja": {
+            "dia": 1
+        },
+        "monja dia": {
+            "miova": 1
+        },
+        "sy levona": {
+            "tsy": 1
+        },
+        "levona tsy": {
+            "ho": 1
+        },
+        "ho hita": {
+            "izy": 1
+        },
+        "hita izy": {
+            "teo": 1
+        },
+        "raha sendra": {
+            "ianao": 1
+        },
+        "sendra ianao": {
+            "misasak": 1
+        },
+        "ianao misasak": {
+            "alina": 1
+        },
+        "misasak alina": {
+            "iny": 1
+        },
+        "alina iny": {
+            "e": 1
+        },
+        "no mba": {
+            "mijery": 1
+        },
+        "mba mijery": {
+            "ty": 1
+        },
+        "mijery ty": {
+            "hita": 1
+        },
+        "ty hita": {
+            "eny": 1
+        },
+        "hita eny": {
+            "ambony": 1
+        },
+        "miova tsy": {
+            "mifankatia": 1
+        },
+        "tsy mifankatia": {
+            "irony": 1
+        },
+        "te hividy": {
+            "lasopy": 1
+        },
+        "hividy lasopy": {
+            "mafana": 1
+        },
+        "lasopy mafana": {
+            "aho": 1
+        },
+        "mafana aho": {
+            "satria": 1
+        },
+        "aho satria": {
+            "farak": 1
+        },
+        "satria farak": {
+            "izay": 1
+        },
+        "farak izay": {
+            "mangatsiaka": 1
+        },
+        "izay mangatsiaka": {
+            "ny": 1
+        },
+        "mangatsiaka ny": {
+            "andro": 1
+        }
+    }
+}
