@@ -1,87 +1,66 @@
 import streamlit as st
 import json
-import re
 
-# Configuration de la page
-st.set_page_config(page_title="Autocomplétion Malagasy", page_icon="🇲🇬")
-
+# --- CHARGEMENT DU MODÈLE ---
 @st.cache_resource
-def load_model(model_path):
-    with open(model_path, 'r', encoding='utf-8') as f:
+def load_model():
+    with open('malagasy_global_model.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def get_suggestions(full_text, model_data, nb_suggestions=5):
+def get_suggestions(text, model_data):
     n = model_data['n']
     model = model_data['data']
+    words = text.lower().strip().split()
+    if not words: return []
     
-    # Nettoyage et découpage
-    words = full_text.lower().split()
-    if not words:
-        return []
-
-    # Si le texte finit par un espace, on cherche le mot suivant
-    # Sinon, on est en train de taper un mot (préfixe)
-    if full_text.endswith(" "):
-        context_words = words[-(n-1):]
-        prefix = ""
-    else:
-        context_words = words[-(n):-(1)] if len(words) >= n else words[:-1]
-        prefix = words[-1]
-
-    context = " ".join(context_words)
-    
-    candidates = []
+    # On prend les (n-1) derniers mots
+    context = " ".join(words[-(n-1):])
     if context in model:
-        # Filtrer par préfixe et trier par fréquence
-        for word, count in model[context].items():
-            if word.startswith(prefix):
-                candidates.append((word, count))
-        
-        candidates = sorted(candidates, key=lambda x: x[1], reverse=True)
-    
-    return [c[0] for c in candidates[:nb_suggestions]]
+        sorted_words = sorted(model[context].items(), key=lambda x: x[1], reverse=True)
+        return [w[0] for w in sorted_words[:5]]
+    return []
 
-# --- INTERFACE STREAMLIT ---
+# --- LOGIQUE DE MISE À JOUR ---
+# Cette variable stocke le texte "source de vérité"
+if 'buffer_texte' not in st.session_state:
+    st.session_state.buffer_texte = ""
+
+model_data = load_model()
+
 st.title("🇲🇬 Autocomplétion Malagasy")
-st.markdown("Tapez votre texte ci-dessous. Les suggestions s'adaptent en temps réel.")
+st.write("Tapez votre texte + **Espace** + **Entrée** pour voir les suggestions.")
 
-# Chargement du modèle
-try:
-    model_data = load_model('malagasy_global_model.json')
+# --- LE CHAMP DE SAISIE ---
+# On utilise 'value' pour l'affichage, mais on ne définit PAS de 'key' identique à la variable
+# pour éviter l'erreur "StreamlitAPIException"
+input_actuel = st.text_input(
+    "Soraty eto...", 
+    value=st.session_state.buffer_texte,
+    placeholder="Ohatra: Te hividy..."
+)
+
+# On synchronise le buffer avec ce que l'utilisateur vient de taper
+st.session_state.buffer_texte = input_actuel
+
+# --- AFFICHAGE DES SUGGESTIONS ---
+if input_actuel.endswith(" "):
+    suggestions = get_suggestions(input_actuel, model_data)
     
-    # Initialisation du texte dans la session state pour pouvoir le modifier
-    if 'user_input' not in st.session_state:
-        st.session_state.user_input = ""
-
-    # Zone de saisie
-    text_input = st.text_input(
-        "Soraty eto...", 
-        value=st.session_state.user_input, 
-        key="main_input",
-        placeholder="Ohatra: Te hividy..."
-    )
-
-    # Récupération des suggestions
-    if text_input:
-        suggestions = get_suggestions(text_input, model_data)
+    if suggestions:
+        st.markdown("### 💡 Soso-kevitra :")
+        # On crée des colonnes pour les boutons
+        cols = st.columns(len(suggestions))
         
-        if suggestions:
-            st.write("**Suggestions :**")
-            cols = st.columns(len(suggestions))
-            
-            for i, word in enumerate(suggestions):
-                # Si on clique sur un bouton, on complète le texte
-                if cols[i].button(word):
-                    # Logique de complétion
-                    words = text_input.split()
-                    if text_input.endswith(" "):
-                        new_text = text_input + word + " "
-                    else:
-                        words[-1] = word # Remplace le préfixe par le mot complet
-                        new_text = " ".join(words) + " "
-                    
-                    st.session_state.user_input = new_text
-                    st.rerun() # Recharge l'app avec le nouveau texte
+        for i, word in enumerate(suggestions):
+            # SI L'UTILISATEUR CLIQUE SUR LE BOUTON
+            if cols[i].button(word, key=f"btn_{word}_{i}"):
+                # 1. On met à jour le buffer avec le mot choisi
+                st.session_state.buffer_texte = input_actuel + word + " "
+                # 2. On force le rechargement immédiat pour que le text_input lise la nouvelle value
+                st.rerun()
+    else:
+        st.caption("Tsy misy soso-kevitra hita.")
 
-except FileNotFoundError:
-    st.error("Fichier modèle introuvable. Veuillez lancer l'entraînement d'abord.")
+# Rappel pour l'utilisateur
+st.divider()
+st.info("Fanamarihana: Mila manindry 'Entrée' ianao aorian'ny fanasiana elanelana (espace) vao mipoitra ny soso-kevitra.")
