@@ -1,0 +1,6 @@
+streamlit
+streamlit-quill
+pandas
+scikit-learn
+datasets
+rapidfuzz
